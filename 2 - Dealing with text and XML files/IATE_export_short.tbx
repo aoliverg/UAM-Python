@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="./TBX-IATE_DCA.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="./TBXcoreStructV03_TBX-IATE_integrated.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<tbx type="TBX-IATE" style="dca" xml:lang="en" xmlns="urn:iso:std:iso:30042:ed-2">
+	<tbxHeader>
+	   <fileDesc>
+		  <titleStmt>
+			 <title>IATE dataset</title>
+		  </titleStmt>
+		  <sourceDesc>
+			 <p>This is a TBX file downloaded from IATE. Please address any inquiries to iate@cdt.europa.eu.</p>
+		  </sourceDesc>
+		</fileDesc>
+	</tbxHeader>
+	<text>
+		<body>
+			<conceptEntry id="55067">
+				<descrip type="isPrimary">yes</descrip>
+				<descrip type="lifecycle"></descrip>
+				<descrip type="subjectField">biology</descrip>
+				<descrip type="origin"></descrip>
+				<langSec xml:lang="en">
+					<termSec>
+						<term>DNA single-strand break</term>
+						<termNote type="termType">fullForm</termNote>
+						<descrip type="reliabilityCode">9</descrip>
+						<descrip type="ownerInstitution">COM</descrip>
+						<descrip type="modificationTimestamp"></descrip>
+					</termSec>
+					<termSec>
+						<term>single-strand break</term>
+						<termNote type="termType">fullForm</termNote>
+						<descrip type="reliabilityCode">9</descrip>
+						<descrip type="ownerInstitution">COM</descrip>
+						<descrip type="modificationTimestamp"></descrip>
+					 </termSec>
+					 <termSec>
+						 <term>nick</term>
+						 <termNote type="termType">fullForm</termNote>
+						 <descrip type="reliabilityCode">9</descrip>
+						 <descrip type="ownerInstitution">COM</descrip>
+						 <descrip type="modificationTimestamp"></descrip>
+					</termSec>
+				</langSec>
+			</conceptEntry>
+			<conceptEntry id="3571254">
+				<descrip type="isPrimary">yes</descrip>
+				<descrip type="lifecycle"></descrip>
+				<descrip type="subjectField">sea fish;wildlife;animal taxonomy</descrip>
+				<descrip type="origin"></descrip>
+				<langSec xml:lang="es">
+					<termSec>
+						<term>cailón marrajo</term>
+						<termNote type="termType">fullForm</termNote>
+						<descrip type="reliabilityCode">9</descrip>
+						<descrip type="ownerInstitution">Consilium</descrip>
+						<descrip type="modificationTimestamp"></descrip>
+					</termSec>
+					<termSec>
+						<term>marrajo sardinero</term>
+						<termNote type="termType">fullForm</termNote>
+						<termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+						<descrip type="reliabilityCode">10</descrip>
+						<descrip type="ownerInstitution">Consilium</descrip>
+						<descrip type="modificationTimestamp"></descrip>
+					</termSec>
+					<termSec>
+						<term>marrajo</term>
+						<termNote type="termType">fullForm</termNote>
+						<descrip type="reliabilityCode">9</descrip>
+						<descrip type="ownerInstitution">EP</descrip>
+						<descrip type="modificationTimestamp">
+						</descrip></termSec>
+					<termSec>
+						<term>cailón</term>
+						<termNote type="termType">fullForm</termNote>
+						<descrip type="reliabilityCode">9</descrip>
+						<descrip type="ownerInstitution">Consilium</descrip>
+						<descrip type="modificationTimestamp"></descrip>
+					</termSec>
+				</langSec>
+				<langSec xml:lang="en">
+					<termSec>
+						<term>porbeagle</term>
+						<termNote type="termType">fullForm</termNote>
+						<descrip type="reliabilityCode">9</descrip>
+						<descrip type="ownerInstitution">Consilium</descrip>
+						<descrip type="modificationTimestamp"></descrip>
+					</termSec>
+				</langSec>
+			</conceptEntry>
+		</body>
+	</text>
+</tbx>
