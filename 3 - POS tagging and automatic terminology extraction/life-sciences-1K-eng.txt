@@ -1,0 +1,1000 @@
+1,2-Dibromoethane
+1,2-Dibromoethane, also known as ethylene dibromide (EDB), is an organobromine compound with the chemical formula . Although trace amounts occur naturally in the ocean, where it is probably formed by algae and kelp, substantial amounts are produced industrially. It is a dense colorless liquid with a faint, sweet odor, detectable at 10 ppm. It is a widely used and sometimes-controversial fumigant. The combustion of 1,2-dibromoethane produces hydrogen bromide gas that is significantly corrosive.
+Preparation and use
+It is produced by the reaction of ethylene gas with bromine, in a classic halogen addition reaction:
+CH=CH + Br → BrCH–CHBr
+Historically, 1,2-dibromoethane was used as a component in anti-knock additives in leaded fuels. It reacts with lead residues to generate volatile lead bromides, thereby preventing fouling of the engine with lead deposits.
+Pesticide
+It has been used as a pesticide in soil and on various crops.  The applications were initiated after the forced retirement of 1,2-dibromo-3-chloropropane (DBCP).  Most of these uses have been stopped in the U.S. It continues to be used as a fumigant for treatment of logs for termites and beetles, and for control of moths in beehives.
+Reagent
+1,2-Dibromoethane has wider applications in the preparation of other organic compounds including those carrying modified diazocine rings and vinyl bromide that is a precursor to some fire retardants.
+In organic synthesis, 1,2-dibromoethane is used to brominate carbanions and to activate magnesium for certain Grignard reagents. In the latter process, 1,2-dibromoethane reacts with magnesium, producing ethylene and magnesium bromide, which are innocuous, exposing a more active portion of the magnesium particle to the substrate.
+Health effects
+1,2-Dibromoethane causes changes in the metabolism and severe destruction of living tissues. The known empirical LD50 values for 1,2-dibromoethane are 140 mg kg−1 (oral, rat), and 300.0 mg kg−1 (dermal, rabbit). 1,2-Dibromoethane is a known carcinogen, with pre-1977 exposure levels ranking it as the most carcinogenic substance on the HERP Index.
+The effects on people of breathing high levels are not known, but animal studies with short-term exposures to high levels caused depression and collapse, indicating effects on the brain. Changes in the brain and behavior were also seen in young rats whose male parents had breathed 1,2-dibromoethane, and birth defects were observed in the young of animals that were exposed while pregnant. 1,2-Dibromoethane is not known to cause birth defects in humans. Swallowing has caused death at 40ml doses.
+References
+External links
+National Pollutant Inventory 1,2-Dibromoethane Fact Sheet
+Congressional Research Service (CRS) Reports regarding Ethylene Dibromide
+ATSDR ToxFAQs
+CDC – NIOSH Pocket Guide to Chemical Hazards
+1,3-Difluoro-2-propanol
+1,3-Difluoro-2-propanol is a metabolic poison which disrupts the citric acid cycle and is used as a rodenticide, similar to sodium fluoroacetate. It is the main ingredient (along with 1-chloro-3-fluoro-2-propanol) in the rodenticide product Gliftor which was widely used in the former USSR and still approved in China.
+References
+2,4,5-Trichlorophenol
+2,4,5-Trichlorophenol (TCP) is an organochloride with the molecular formula C6H3Cl3O. It has been used as a fungicide and herbicide. Precursor chemical used in the production of 2,4,5-Trichlorophenoxyacetic acid (2,4,5-T) and hexachlorophene involves the intermediate production of 2,4,5-trichlorophenol (TCP) and the formation of 2,3,7,8-Tetrachlorodibenzodioxin (TCDD, commonly referred to simply as dioxin) as an unwanted by-product. In the course of purifying the hexachlorophene, still bottom wastes were created with concentrated levels of TCP and dioxin.
+References
+Cited sources
+See also
+Agent Orange
+2,4,5-Trichlorophenoxyacetic acid
+2,4-Dichlorophenoxyacetic acid
+2,4-Dinitrophenol
+2,4-Dinitrophenol (2,4-DNP or simply DNP) is an organic compound with the formula HOC6H3(NO2)2. It has been used in explosives manufacturing and as a pesticide and herbicide.
+In humans, DNP causes dose-dependent mitochondrial uncoupling, causing the rapid loss of ATP as heat and leading to uncontrolled hyperthermia—up to —and death in case of overdose. Researchers noticed its effect on raising the basal metabolic rate in accidental exposure and developed it as one of the first weight loss drugs in the early twentieth century. DNP was banned from human use by the end of the 1930s due to its risk of death and toxic side effects. DNP continues to be used after its ban and experienced a resurgence in popularity after it became available on the Internet.
+Chemical properties
+thumb|upright=1.3|Synthesis of DNP (right) from phenol and nitric acid via 2-Nitrophenol and 4-Nitrophenol
+DNP has the chemical formula HOC6H3(NO2)2. As a solid, it is a yellow, crystalline and has a sweet, musty odor. It sublimates, is volatile with steam, and is soluble in most organic solvents as well as aqueous alkaline solutions. DNP is a member of the dinitrophenols chemical family.
+DNP can be produced by hydrolysis of 2,4-dinitrochlorobenzene. Other routes of DNP synthesis include  nitration of monochlorobenzene, nitration of benzene with nitrogen dioxide and mercurous nitrate, oxidation of 1,3-dinitrobenzene, and nitration of phenol with nitric acid.
+A dust explosion is possible with DNP in powder or granular form in the presence of air. DNP may explosively decompose when submitted to shock, friction or concussion, and may explode upon heating. DNP forms explosive salts with strong bases as well as ammonia, and emits toxic fumes of nitrogen dioxide when heated to decomposition. DNP's explosive strength is 81% that of TNT, based on the Trauzl lead block test.
+Uses
+Industrial
+Historically, DNP has been used as an antiseptic and as a non-selective bioaccumulating pesticide.
+DNP was particularly useful as a herbicide alongside other closely related dinitrophenol herbicides like 2,4-dinitro-o-cresol (DNOC), dinoseb and dinoterb. Since 1998 DNP has been withdrawn from agricultural use. Currently, there are no actively registered pesticides containing DNP in the United States or Europe. Dinoseb is used industrially as a polymerisation inhibitor during styrene production. In 2023, the Home Office said it could not determine any legitimate industrial uses for DNP in the United Kingdom.
+It is a chemical intermediate in the production of sulfur dyes,Gerald Booth "Nitro Compounds, Aromatic" in "Ullmann's Encyclopedia of Industrial Chemistry" 2007; Wiley-VCH, Weinheim.  wood preservatives and picric acid. A precursor to 2,4,6-trinitrotoluene (TNT), DNP has also been used to make photographic developers and explosives. DNP is classified as an explosive in the United Kingdom and the United States.
+In humans
+thumb|upright=0.9|Histogram of DNP doses reported on online forums and the subreddit /r/DNP
+DNP raises energy expenditure by 30 to 40 percent and causes a weight loss of  per week. Although DNP is no longer in clinical use as a weight loss drug due to its dangerous side effects, its mechanism of action remains under investigation as a potential approach for treating obesity and non-alcoholic fatty liver disease. Researchers developed a prodrug, HU6, which is metabolized to DNP in the liver to provide more stable blood concentrations. HU6 completed a phase II trial in which it produced significant reductions in liver fat and body weight in overweight people with elevated liver fat, without serious adverse effects.
+DNP is used by bodybuilders, fitness enthusiasts, and people with an eating disorder to lose weight. The user profile is similar to that of anabolic steroids; many perceive it to be effective and with manageable risks. Despite health warnings from regulators, DNP is readily available online sometimes under other names such as Dinosan, Dnoc, Solfo Black, Nitrophen, Aldifen, and Chemox. DNP is often sold in tablets containing 100 to 200 mg and may be sold alongside other substances such as anabolic steroids and thyroxine. It may also be found as a contaminant in other bodybuilding supplements not advertised as containing DNP. Online message boards provide information on dosage and regimens for DNP use, and describe the risks of taking the compound and provide advice on how to mitigate hyperthermia. According to a study published in 2023, the most commonly reported doses were between 150 and 300 mg/day.  Between 2010 and 2020, reports of overdoses were higher in Australasia, Europe and North America than in Asia, Africa, and South or Central America.
+It is also used as a suicide method.
+Biochemistry
+Mechanism of action
+thumb|Nitro reduction of DNP
+In living cells, DNP acts as a protonophore, an agent that can shuttle protons (hydrogen cations) across biological membranes. It dissipates the proton gradient across the mitochondrial membrane, collapsing the proton motive force that the cell uses to produce most of its ATP chemical energy. Instead of producing ATP, the energy of the proton gradient is lost as heat. The inefficiency is proportional to the dose of DNP that is taken. As the dose increases and energy production is made more inefficient, metabolic rate increases (and more fat is burned) in order to compensate for the inefficiency and to meet energy demands. DNP is probably the best known agent for uncoupling oxidative phosphorylation. The phosphorylation of adenosine diphosphate (ADP) by ATP synthase gets disconnected or uncoupled from oxidation.
+DNP raises the basal metabolic rate (BMR) and lowers T4 (thyroid hormone) levels by increasing T4 metabolism and reducing thyroid hormone secretion. Because it binds to thyroxine-binding globulin, overall thyroid function may not be affected. DNP cannot substitute for thyroid hormone in myxedema.
+Pharmacokinetics
+Information about pharmacokinetics and pharmacodynamics of DNP in humans is limited. DNP is metabolized via nitro reduction. Its major metabolites are  and  4-amino-2-nitrophenol. In overdoses, symptom onset can be as soon as 3 hours and the average time to death was 14 hours.
+As a pollutant
+Although many militaries are replacing traditional 2,4,6-trinitrotoluene (TNT)-based explosives for insensitive munitions, DNP is a degradation byproduct of the IMX-101 insensitive munition used by the United States Army.
+While the Meisenheimer charge transfer reaction is effective at detecting TNT, it is not effective at detecting many other explosives including DNP. Researchers are studying colorimetric detection and other methods for DNP to find if water or solids such as soils are contaminated with DNP. UiO-66-NH2 can be used to bind to and remove DNP from solution.
+Adverse effects
+DNP has a low therapeutic index, meaning that the dosage at which toxicity occurs is not much larger than that required to produce a desired effect.  Individual tolerance to DNP's harmful short- and long-term effects varies greatly. The most common adverse effect reported is a rash, which could be maculopapular, urticarial, angioedema, or an exfoliative dermatitis. Cataracts can form, causing a permanent loss of vision in days to months of usage, and permanent deafness has also been reported. Other adverse effects reported include peripheral neuritis, agranulocytosis, and neutropaenia. Negative effects on the central nervous system, cardiovascular system, and bone marrow can occur. In animal studies, DNP acted as a teratogen, mutagen, and carcinogen and caused developmental and reproductive harm.  An unusually yellow coloring of the skin, mucous membranes, sclera, urine, stomach contents, and internal organs is an indication of DNP exposure, but does not occur in every case. Contact with skin or inhalation can cause DNP poisoning. Symptoms are typically mild with dermal exposure, but inhalation can lead to systemic effects, the same way as oral exposure.
+Overdose
+Overdose is extremely dangerous; cases reported to poison control centers had a 11.9 percent fatality rate between 2010 and 2020. Although the largest number of overdose deaths occurred in the 1910s and 1920s when the chemical was in more widespread industrial use, the substance's use as a dieting aid has caused a number of fatalities in the twenty-first century: at least 50 overdose deaths were reported worldwide between 2010 and 2020.  Although the lowest published fatal ingested dose is 4.3 mg/kg, a typical overdose death occurs at a higher level of exposure, around 20-50 mg/kg.
+The first symptoms to appear are nausea, vomiting, abdominal pain, and perhaps diarrhea. The typical overdose syndrome seen with DNP and other phenols is a combination of hyperthermia, tachycardia, diaphoresis, and tachypnoea. Because of the heat produced during uncoupling, DNP overdose will overpower the body's attempt to maintain thermal homeostasis and cause an uncontrolled, fatal rise in body temperature up to as high as . The disruption of metabolism also leads to the accumulation of potassium and phosphate, potentially contributing to toxicity. DNP can cause T wave and ST segment abnormalities; heart muscle, kidney, and liver damage have been found on autopsy. According to an analysis of United Kingdom and United States overdose cases, tachycardia, hyperpyrexia, acidosis, and agitation or confusion are independent predictors of overdose death.
+There is no antidote to DNP and management strategies are based on expert opinion and case studies. Treatment for overdose is supportive, and often involves aggressive cooling using methods such as ice baths and intravenous fluids. Grundlingh et al. recommend administering activated charcoal if the patient presents within an hour of ingestion and using intravenous vasopressors or inotropes to control blood pressure if necessary. Intravenous methylthioninium chloride can treat methaemoglobinaemia. Benzodiazepines can help control seizures and dantrolene has been used in an attempt to control hyperthemia. Cardiopulmonary resuscitation (CPR) has been used on people who died of DNP overdoses but has no known successful outcomes.
+History
+During World War I, munitions workers in France fell ill and some died from DNP exposure. Stanford University academic Maurice L. Tainter learned of DNP's effect in raising the metabolic rate and causing weight loss and pioneered its use as a weight loss drug. Although he was aware of DNP's narrow therapeutic index, Tainter tried the drugs on obese patients and published successful results in 1933; average weight loss was  and most recipients did not report adverse effects. In 1934, Tainter estimated that at least 100,000 people had been treated with DNP in the United States during its first year on the market and there had been three reported fatalities connected to the drug. Tainter argued that DNP was highly effective in raising the metabolic rate (up to 50 percent) and avoided the negative circulatory effects of desiccated thyroid, another weight loss drug in use at the time.
+upright=1.3|thumb|DNP explainer in the FDA publication "Chamber of Horrors"
+Other physicians were less optimistic about the adverse effects of DNP, and in 1935 the  American Medical Association's Council on Chemistry and Pharmacy declined to list DNP in the New and Nonofficial Remedies on the grounds that its benefits did not exceed its risks to health. Reports of cataracts forming during DNP usage administered by a physician appeared the same year; in 1936 an ophthalmologist based in San Francisco estimated that 2,500 American women had gone blind from DNP use. Physician opinion turned against the drug, but many people bought direct-to-consumer preparations of DNP—marketed as a cosmetic rather than a drug to evade existing regulations.
+DNP's risks were highlighted in the "Chamber of Horrors", an exhibit assembled by the Food and Drug Administration to explain the limitations of existing American drug regulations. In 1938, the Food, Drug, and Cosmetic Act increased the FDA's ability to regulate drugs. DNP was deemed so toxic as to be banned for human consumption and in 1940 the FDA reported that there was no evidence of continued sale for this purpose. Nevertheless, it continued to be used for weight loss. William F. Loomis and Fritz Albert Lipmann discovered DNP's mechanism of action and reported it in a 1948 publication.
+Reports of its use increased in the twenty-first century after the drug became available on the Internet.
+Legal status
+DNP is banned for human consumption in many countries. Because it has some legitimate uses, in many jurisdictions, DNP is legal to sell, but not for human consumption. In Australia, all dinitrophenols were classified as Schedule 1 dangerous drugs in 1956. In February 2017, DNP was reclassified as Schedule 10, "Substances of such a danger to health as to warrant prohibition of sale, supply and use". Since 1 October 2023, DNP has been classified as a regulated poison in the United Kingdom. It is a prohibited substance (class F4) in Brazil. In the United States, DNP is classified as an investigational new drug; it received orphan drug status for Huntington's disease. DNP has been banned by the World Anti-Doping Association since 2015.
+Petróczi et al. recommend against campaigns informing people of the risks of DNP because it could increase use of the drug. However, Sousa et al. argue that publicity campaigns in the United Kingdom in the early and mid-2010s reduced DNP usage. In 2015, Interpol and the World Anti-Doping Agency released an orange notice warning of the dangers of DNP.
+In 1941, the Eastman Kodak Company, a bulk distributor of DNP, was investigated after some of its product was found in illegal diet pills. Nicholas Bachynsky, a Texas physician, provided the drug to patients under the name "Mitcal". He was convicted of violating drug laws in 1986, but continued to work with DNP  and was additionally convicted of fraud in 2008. In 2018, a seller in the United Kingdom was convicted of manslaughter for selling DNP for human consumption. The conviction was sent to retrial in 2020 by the English Court of Appeal, where the seller was, once again, convicted of gross negligence manslaughter.
+References
+Further reading
+Athlete dies at the 2025 Arnold Classic
+2-Fluoroethanol
+2-Fluoroethanol is the organic compound with the formula CH2FCH2OH. This colorless liquid is one of the simplest stable fluorinated alcohols. It was once used as a pesticide. The related difluoro- and trifluoroethanols are far less dangerous.
+Synthesis
+2-Fluoroethanol was originally synthesized by treating 2-chloroethanol with potassium fluoride, in a simple Finkelstein reaction. The product has a lower boiling point that the starting material and may be conveniently isolated by distillation.
+ClCH2CH2OH + KF → FCH2CH2OH + KCl
+Similar procedures start from (1,3)-dioxolan-2-one and from 2-bromoethanol.
+Structure and reactivity
+Hydrogen bonding stabilizes the gauche conformer.
+In a basic solution, 2-fluoroethanol undergoes dehydrofluorination, giving acetaldehyde.
+Reaction of 2-fluoroethanol with trifluoromethanesulfonic anhydride in the presence of base gives the triflate ester.
+PET radiotracers
+2-[18F]-fluoroethoxy group is a common moiety in the structures of radiotracers used with PET. Such radiotracers include fluoroethyl-l-tyrosine 1-(2-[18F]-fluoroethoxy)-4-nitrobenzene and [18F]-fluoroethyl 4-fluorobenzoate, being a [18F]fluoroalkyl ether and ester respectively.Pan, J., Pourghiasian, M., Hundal, N., Lau, J., Bénard, F., Dedhar, S., & Lin, K.-S. (2013). 2-[18F]-fluoroethanol and 3-[18F]-fluoropropanol: facile preparation, biodistribution in mice, and their application as nucleophiles in the synthesis of [18F]fluoroalkyl aryl ester and ether PET tracers. Nuclear Medicine and Biology, 40(6), 850–857. https://doi.org/10.1016/j.nucmedbio.2013.04.009Falzon, C. L., Ackermann, U., Spratt, N., Tochon-Danguy, H. J., White, J., Howells, D., & Scott, A. M. (2006).F-18 labelledN,N-bis-haloethylamino-phenylsulfoxides — a new class of compounds for the imaging of hypoxic tissue. Journal of Labelled Compounds and Radiopharmaceuticals, 49(12), 1089–1103. https://doi.org/10.1002/jlcr.1129
+Metabolism
+It was patented as a rodenticide in Germany in 1935.Treble D. H. (1962). The metabolism of 2-fluoroethanol. The Biochemical journal, 82(1), 129–134. https://doi.org/10.1042/bj0820129 In rats, it was found that fluoroethanol induced a similar toxicity as that of fluoroacetate, known to metabolize to fluorocitrate to exert the toxic effect.
+2-Fluoroethanol is converted by alcohol dehydrogenase (ADH) using nicotinamide adenine dinucleotide (NAD+) as cofactor, ultimately leading to the formation of fluoroacetaldehyde and then fluoroacetate.
+Fluoroacetate is a precursor to fluorocitrate,Goncharov, N. V., Jenkins, R. O., & Radilov, A. S. (2006). Toxicology of fluoroacetate: a review, with possible directions for therapy research. Journal of applied toxicology : JAT, 26(2), 148–161. https://doi.org/10.1002/jat.1118 an inhibitor of aconitase, an enzyme that participates in the TCA cycle.Timbrell, J. A. (2008). Principles of Biochemical Toxicology (Fourth Edition). Taylor & Francis. p. 358-359.
+Toxicity
+Reported effects of 2-fluoroethanol are epigastric distress effects, such as vomiting, and central nervous effects, such as auditory hallucinations, numbness feeling of the face or nose. Both these types of effects occur gradually after being exposed to 2-fluoroethanol for several hours. Some more severe reactions of the human body to 2-fluoroethanol can be respiratory failure and epileptiform convulsions or seizures, leading to dysfunctions in the heart mechanism. From the early 20th century, there are multiple reports of deaths caused by 2-fluoroethanol.Saunders, B. C., Stacey, G. J., & Wilding, I. G. E. (1948). Toxic Fluorine Compounds Containing the C-F Link. Part II. 2-Fluoroethanol and its Derivatives. University Chemical Laboratory Cambridge, 1. Retrieved from https://pubs-rsc-org.ru.idm.oclc.org/en/content/articlepdf/1949/jr/jr9490000773.
+2-Fluoroethanol is also toxic to other animals with LD50 ranging from 7 to 1500 mg/kg bodyweight.
+See also
+Sodium fluoroacetate
+1,3-Difluoro-2-propanol
+4-Fluorobutanol
+References
+3-Amino-1,2,4-triazole
+thumb|3-Amino-1,2,4-triazole in powder form
+3-Amino-1,2,4-triazole (3-AT) is a heterocyclic organic compound that consists of 1,2,4-triazole with an amino group as a substituent.
+3-AT is a competitive inhibitor of the product of the HIS3 gene, imidazoleglycerol-phosphate dehydratase. Imidazoleglycerol-phosphate dehydratase is an enzyme catalyzing the sixth step of histidine production.
+3-AT is also a nonselective systemic triazole herbicide used on nonfood croplands to control annual grasses and broadleaf and aquatic weeds. It is not used on food crops because of its carcinogenic properties. As an herbicide, it is known as aminotriazole, amitrole or amitrol.
+Amitrol was included in a biocide ban proposed by the Swedish Chemicals Agency and approved by the European Parliament on January 13, 2009. Amitrol's mode of action is unknown, though it is classed as a resistance group Q herbicide.
+Applications in microbiology
+By applying 3-AT to a yeast cell culture which is dependent upon a plasmid containing HIS3 to produce histidine (i.e. its own HIS3 analogue is not present or nonfunctional), an increased level of HIS3 expression is required in order for the yeast cell to survive. This has proved useful in various two-hybrid system, where a high-affinity binding between two proteins (i.e., higher expression of the HIS3 gene) will allow the yeast cell to survive in media containing higher concentrations of 3-AT. This selection process is performed using selective media, containing no histidine.
+1959 cranberry contamination
+On November 9, 1959, the secretary of the United States Department of Health, Education, and Welfare, Arthur S. Flemming, announced that some of the 1959 cranberry crop was tainted with traces of the herbicide aminotriazole. The market for cranberries collapsed and growers lost millions of dollars.New York Times website - Opinion section However, Ocean Spray recovered by expanding the market for cranberry juice, which, although widely available for sale, was before then not popular. This ensured cranberry growers would not have to rely mostly on Thanksgiving and Christmas for sales, which was the case until the 1959 incident.
+References
+3D ultrasound
+thumb|A 3D ultrasound of a human fetus aged 20 weeks
+3D ultrasound is a medical ultrasound technique, often used in fetal, cardiac, trans-rectal and intra-vascular applications. 3D ultrasound refers specifically to the volume rendering of ultrasound data. When involving a series of 3D volumes collected over time, it can also be referred to as 4D ultrasound (three spatial dimensions plus one time dimension) or real-time 3D ultrasound.
+Methods
+When generating a 3D volume, the ultrasound data can be collected in four common ways by a sonographer:
+Freehand, which involves tilting the probe and capturing a series of ultrasound images and recording the transducer orientation for each slice.
+Mechanically, where the internal linear probe tilt is handled by a motor inside the probe.
+Using an endoprobe, which generates the volume by inserting a probe and then removing the transducer in a controlled manner.
+A matrix array transducer, which uses beam steering to sample points throughout a pyramid shaped volume.
+Risks
+The general risks of ultrasound also apply to 3D ultrasound. Essentially, ultrasound is considered safe. While other imaging modalities use radioactive dye or ionizing radiation, for example, ultrasound transducers send pulses of high frequency sound into the body and then listen for the echo.
+In summary, the primary risks associated with ultrasound would be the potential heating of tissue or cavitation. The mechanisms by which tissue heating and cavitation are measured are through the standards called thermal index (TI) and mechanical index (MI). Even though the FDA outlines very safe values for maximum TI and MI, it is still recommended to avoid unnecessary ultrasound imaging.
+Applications
+Obstetrics
+3D ultrasound is useful, among other things, for facilitating the characterization of some congenital defects, such as skeletal anomalies and heart issues. With real-time 3D ultrasound, the fetal heart rate can be examined in real-time.
+Cardiology
+Applications of three-dimensional ultrasound in cardiac treatment have achieved outstanding progress in scanning and treating heart issues. When 3D ultrasound is used to visualize the cardiac state of an individual, it is called 3D echocardiography. With the integration of other technologies, it is possible to obtain quantitative measurements such as chamber volume during the cardiac cycle. It also provides other useful information, for example, tracking the blood flow, or the speed of contractions and expansions. With 3D echocardiography, physicians can detect artery diseases with relative ease, and can finely examine various cardiac defects. 3D echocardiography can achieve real-time imaging of the cardiac structure.
+Surgical guidance
+Traditionally, with 2D ultrasound, the specific position of organs and tissues, which is useful in surgery, could not be located, especially in the oblique plane. With the advent of 3D ultrasound, the imaging technique has evolved such that it enables the surgeon to obtain a real-time picture of tissues and organs, visualizing the complete scan more efficiently. In addition, 3D ultrasound provides surgical guidance in organ transplantation and cancer treatment, especially by employing rotational visualizing during scan. Various methods are used in this area, including rotational scanning, slice projection, and the use of integrated array transducers. With 3D ultrasound, it is possible to treat a broader range of tumors, as more tissues can be diagnosed and inspected.
+Vascular imaging
+Blood vessels and arteries are relatively difficult to image, due to their distribution. 3D ultrasound has made it easier to track the dynamic movement of blood cells, veins and arteries. Various types of diagnostic tasks can be achieved with 3D ultrasound, such as measuring blood vessel diameter and diagnosing arterial walls. Some of these tasks can be undertaken with a magnetic tracker, integrated with the ultrasound, which assists in accurate positioning.
+Regional anesthesia
+Real-time 3D ultrasound is used during peripheral nerve blockade procedures to identify the relevant anatomy and monitor the spread of local anesthetic around the nerve. Peripheral nerve blockades prevent the transmission of pain signals from the site of injury to the brain without deep sedation, which makes them particularly useful for outpatient orthopedic procedures. Real-time 3D ultrasound allows muscles, nerves and vessels to be clearly identified while a needle or catheter is advanced under the skin. This type of ultrasound is capable of imaging the needle regardless of the plane of the image, which is a substantial improvement over 2D ultrasound. Additionally, the image can be rotated or cropped in real time to reveal anatomical structures within a volume of tissue. Physicians at the Mayo Clinic in Jacksonville have been developing techniques using real time 3D ultrasound to guide peripheral nerve blocks for shoulder, knee, and ankle surgery.
+References
+External links
+The History of Ultrasounds (including 3D ultrasounds)
+The Endowment for Human Development provides numerous 4D ultrasounds that can be viewed online.
+Scans uncover secrets of the womb BBC News
+3D/4D Elective Ultrasound Blogs provides numerous 4D ultrasound blogs for pregnant women.
+Scans uncover secrets of the womb BBC News
+About the discovery of medical ultrasonography
+Learn how to perform 3D/4d Ultrasounds
+Safety Concerns  Details a number of health concerns over this unregulated practice
+3D Ultrasound Clinic and Education Facility A 3D Ultrasound
+clinic in Sacramento, CA that specializes in performing 3D ultrasound and training sonographers.
+Great Collection of 3D Ultrasound Images
+A Review on Real-Time 3D Ultrasound Imaging Technology
+4-Aminopyridine
+thumb|right|240px|4-Aminopyridine
+4-Aminopyridine (4-AP) is an organic compound with the chemical formula .  It is one of the three isomeric aminopyridines.  It is used as a research tool in characterizing subtypes of the potassium channel.  It has also been used as a drug, to manage some of the symptoms of multiple sclerosis, and is indicated for symptomatic improvement of walking in adults with several variations of the disease. It was undergoing Phase III clinical trials , and the U.S. Food and Drug Administration (FDA) approved the compound on January 22, 2010. Fampridine is also marketed as Ampyra (pronounced "am-PEER-ah", according to the maker's website) in the United States by Acorda Therapeutics and as Fampyra in the European Union, Canada, and Australia. In Canada, the medication has been approved for use by Health Canada since February 10, 2012.
+Applications
+In the laboratory, 4-AP is a useful pharmacological tool in studying various potassium conductances in physiology and biophysics. It is a relatively selective blocker of members of Kv1 (Shaker, KCNA) family of voltage-activated K+ channels. However, 4-AP has been shown to potentiate voltage-gated Ca2+ channel currents independent of effects on voltage-activated K+ channels.
+Convulsant activity
+4-Aminopyridine is a potent convulsant and is used to generate seizures in animal models for the evaluation of antiseizure agents.
+Vertebrate pesticide
+4-Aminopyridine is also used under the trade name Avitrol as 0.5% or 1% in bird control bait. It causes convulsions and, infrequently, death, depending on dosage. The manufacturer says the proper dose should cause epileptic-like convulsions which cause the poisoned birds to emit distress calls resulting in the flock leaving the site; if the dose was sub-lethal, the birds will recover after 4 or more hours without long-term ill effect. The amount of bait should be limited so that relatively few birds are poisoned, causing the remainder of the flock to be frightened away with a minimum of mortality. A lethal dose will usually cause death within an hour.  The use of 4-aminopyridine in bird control has been criticized by the Humane Society of the United States.
+Medical use
+Fampridine has been used clinically in Lambert–Eaton myasthenic syndrome and multiple sclerosis. It acts by blocking voltage-gated potassium channels, prolonging action potentials and thereby increasing neurotransmitter release at the neuromuscular junction.
+The drug has been shown to reverse saxitoxin and tetrodotoxin toxicity in tissue and animal experiments.Octopus Envenomations at eMedicine.com
+In calcium entry blocker overdose in humans, 4-aminopyridine can increase the cytosolic Ca2+
+concentration very efficiently independent of the calcium channels.
+Multiple sclerosis
+Fampridine has been shown to improve visual function and motor skills and relieve fatigue in patients with multiple sclerosis (MS). However, the effect of the drug is strongly established for walking capacity only. Common side effects include dizziness, nervousness and nausea, and the incidence of adverse effects was shown to be less than 5% in all studies.
+4-AP works as a potassium channel blocker. Strong potassium currents decrease action potential duration and amplitude, which increases the probability of conduction failure − a well documented characteristic of demyelinated axons. Potassium channel blockade has the effect of increasing axonal action potential propagation and improving the probability of synaptic vesicle release. A study has shown that 4-AP is a potent calcium channel activator and can improve synaptic and neuromuscular function by directly acting on the calcium channel beta subunit.
+MS patients treated with 4-AP exhibited a response rate of 29.5% to 80%. A long-term study (32 months) indicated that 80-90% of patients who initially responded to 4-AP exhibited long-term benefits. Although improving symptoms, 4-AP does not inhibit progression of MS. Another study, conducted in Brazil, showed that treatment based on fampridine was considered efficient in 70% of the patients.
+Spinal cord injury
+Spinal cord injury patients have also seen improvement with 4-AP therapy. These improvements include sensory, motor and pulmonary function, with a decrease in spasticity and pain.
+Tetrodotoxin poisoning
+Clinical studies have shown that 4-AP is capable of reversing the effects of tetrodotoxin poisoning in animals, however, its effectiveness as an antidote in humans has not yet been determined.
+Overdose
+Case reports have shown that overdoses with 4-AP can lead to paresthesias, seizures, and atrial fibrillation.
+Contraindications
+4-aminopyridine is excreted by the kidneys. 4-AP should not be given to people with significant kidney disease (e.g., acute kidney injury or advanced chronic kidney disease) due to the higher risk of seizures with increased circulating levels of 4-AP.
+Branding
+The drug was originally intended, by Acorda Therapeutics, to have the brand name Amaya, however the name was changed to Ampyra to avoid potential confusion with other marketed pharmaceuticals.
+Four of Acorda's patents pertaining to Ampyra were invalidated in 2017 by the United States District Court for the District of Delaware and a fifth patent expired in 2018. Since then, generic alternatives have been developed for the U.S. market.
+The drug is marketed by Biogen Idec in Canada as Fampyra and as Dalstep in India by Sun Pharma.
+Research
+Parkinson's disease
+Dalfampridine completed Phase II clinical trials for Parkinson's disease in July 2014.
+See also
+4-Dimethylaminopyridine, a popular laboratory reagent, is prepared directly from pyridine instead of via methylating this compound.Shinkichi Shimizu, Nanao Watanabe, Toshiaki Kataoka, Takayuki Shoji, Nobuyuki Abe, Sinji Morishita, Hisao Ichimura "Pyridine and Pyridine Derivatives" in "Ullmann's Encyclopedia of Industrial Chemistry" 2007; John Wiley & Sons: New York.
+Pyridine
+4-Pyridylnicotinamide, useful as a ligand in coordination chemistry, is prepared by the reaction of this compound with nicotinoyl chloride.
+References
+X
+4B movement
+4B or "Four Nos" is a radical feminist movement that originated in South Korea. The name refers to its defining four tenets which all start with the Korean-language term  (), roughly meaning no. Its proponents do not date men, marry men, have sex with men, or have children with men. The movement emerged between 2017 and 2019 on Twitter and on the website WOMAD. It has since spread internationally, namely to the United States after its 2024 presidential election.
+The movement is considered fringe in South Korea, and it has since reportedly declined there. In South Korea, a portion of its members, particularly those associated with the widely classified as misandrist WOMAD, were described as transphobic and homophobic towards gay men.
+Beliefs
+The four core tenets to the 4B movement are:
+no sex with men (),
+no giving birth (),
+no dating men (), and
+no marriage with men ().
+(no marriage)
+A 2022 survey of unmarried South Koreans aged 19 to 34 found that 69.7% of women (compared to 79.8% of men) expressed a desire to marry in the future. Marital violence is the most prevalent form of family violence in South Korea. In heterosexual South Korean households, women perform a disproportionate portion of the unpaid labor. Some 4B followers state that the movement helps protect them from the risks of marriage, including domestic violence and an unequal distribution of labor.
+(no childbirth)
+Many South Korean women are reluctant to have children due to the lack of workplace accommodations. More than 40% of South Korean women take an extended career break after marriage and childbirth, while many of those who stay in work struggle to progress their careers. The 4B movement proposes that women focus on financial independence, including forgoing childbirth.
+South Korea has one of the lowest birth rates in the world. As of 2023, the fertility rate is at 0.72, significantly below the 2.1 threshold required to maintain a country's population. The country's birth rate has been below the replacement rate since 1983, while the 4B movement originated in the 2010s, making it likely that the low birth rate is due to economic insecurity experienced by young adults, high child-rearing costs, high property prices, and the double burden placed on working mothers.
+A 2022 survey of unmarried South Koreans aged 19 to 34 found that 55.3% of women (as compared to 70.5% of men) indicated a preference for having children.
+(no romance with men) and  (no sexual relationships with men)
+Women of the 4B movement do not engage in romance and sexual relationships with men, because they see it as an extension of the patriarchal family structure.
+Notable proponents
+Jung Se-young and Baeck Ha-na, two proponents, criticize marriage as reinforcing gender roles in South Korea. The movement draws some inspiration from the novel Kim Ji-young, Born 1982, as do South Korea's MeToo and "Escape the Corset" movements.
+History
+The term 4B emerged from Korean feminist circles on Twitter around 2017 to 2018, after a highly publicized 2016 murder of a woman by a man. The murderer, who said he did it because women had ignored him, was not charged with a hate crime.
+The 4B movement also emerged in response to many other social issues. For instance, the misogynistic social media platform Ilbe Storehouse grew in prominence in 2014, and was followed by cultural "gender wars" in 2015.
+The 4B movement gained broader recognition on Twitter in 2019 and through various feminist social media accounts. One notable feature of the 4B movement, as with other Korean digital feminist movements, is that members often identify themselves as "anonymous women", as it is conventional not to disclose personal details online.
+Escape the Corset Movement
+The "Escape the Corset" Movement that started in 2016 served as a source of inspiration for the 4B movement. The movement calls for women to liberate themselves from sexual, social, bodily, and psychological oppression. The word "corset" is used by Korean feminists as a metaphor for the societal mechanisms that bind and repress women, including toxic beauty standards. Notably, South Korea has the 10th largest beauty market globally and is the third-largest cosmetics exporter. In a society where beauty holds immense cultural and economic significance, members of the "Escape the Corset" Movement criticize and resist cosmetic procedures, demanding skincare or makeup rituals, and the adoption of trendy clothing, all seen as perpetuating consumerism and misogynistic social norms. In protest, they express their defiance by destroying makeup, forgoing cosmetic enhancements, shaving their heads, and rejecting fashionable attire. Escape the Corset's analysis and approach to protest deeply influenced the 4B movement.
+South Korea's #MeToo movement
+Although the #MeToo movement originated in the United States in 2006 and gained popularity in 2017, many other countries, including South Korea, created #MeToo movements of their own. The #MeToo movement in South Korea, like those in other countries, encouraged women to express their experiences of sexual harassment to inspire social change. Shortly after its inception in late 2017, several hundred women stepped forward with claims of sexual harassment and violence. This movement also encouraged previous comfort women of the Imperial Japanese Army during World War II and the Japanese occupation of Korea to speak more freely in large numbers about their sexual abuse.
+The #MeToo movement also inspired various online hashtag campaigns, most popularly the #WithYou tag, to signal solidarity with survivors of sexual assault who had spoken up in the #MeToo movement. These various hashtags inspired the formation of women's activist groups, such as Citizens Action to Support the #MeToo Movement, which campaigned to end gendered oppression and support victims of sexual abuse in South Korea.
+Continuation in South Korea
+In South Korea, the movement has lost momentum since its early days.
+Expansion to the United States
+After the 2024 United States presidential election in which Donald Trump won a second term, some American women expressed interest in the 4B movement as a form of protest against Trump's election, his alleged sexual assaults, and his role in the overturning of Roe v. Wade. Other American women expressed interest in 4B as a method to support other women and to protect their health and safety should they lose access to birth control or abortion. Shortly after the election was called, TikTok videos mentioning 4B were viewed hundreds of thousands of times, and Google searches about it spiked by 450%. American women have called the movement the "4 Nos" and "Lysistrata".
+Reception
+The 4B movement is considered to be fringe in South Korea, with Ju Hui Judy Han of UCLA arguing that "the vast majority of South Korean feminists do not abide by it," and that "4B is not representative of Korean feminist politics." One woman interviewed expressed frustration with the Western adoption of the movement, claiming that the conditions for the movement in South Korea significantly differ from those in the West. Internationally, various hashtags and social media posts have been used to express support for the movement.
+Transphobia and homophobia in the South Korean movement
+Feminism, especially radical feminism, in South Korea has had a notable transphobic and homophobic (against male homosexuals) presence, with internal dispute about the acceptability of such beliefs. The 4B movement was significantly popular on (and widely publicly associated with) the South Korean website WOMAD, which is considered to be misandrist, homophobic, and transphobic. The website was founded because Megalia had begun prohibiting homophobic and transphobic slurs. WOMAD members reportedly advocated for revenge against men, advocated for disliked people to commit suicide, and some threatened violence and committed crimes against men. Mothers were labeled both victims and conformers to patriarchal society that discriminate against their daughters. Many WOMAD members compared married women to slaves. One trans person interviewed in South Korea argued that, while most South Korean women were not transphobic, the strongest advocates for 4B in South Korea were on and radicalized by WOMAD.
+Some members of the 4B movement have reportedly advocated for the use of ID scanners to verify sex before entering public restrooms, and for more sex segregation at protests. Various communities involved in the 4B movement reportedly asked that members take photos so that others could verify their biological sex; one such group asked for videos of people's Adam's apples.
+Some South Korean queer and trans feminists reportedly expressed concern that the 2024 international interest in the 4B movement could lead to an increase in anti-trans rhetoric and a resurgence of the 4B movement in South Korea.
+See also
+6B4T movement
+Domestic violence in South Korea
+Female separatism
+Gender inequality in South Korea
+Herbivore men
+Men Going Their Own Way, antifeminist movement among men advocating disengagement from women
+Neijuan
+Political lesbianism
+Queer nationalism
+Sexual abstinence
+Voluntary childlessness
+Anti-natalism
+Shakers, an 18th-century religious movement whose members also refused marriage, sex and child-rearing against the wider culture; they eventually went extinct
+Sampo generation
+Singleton (lifestyle)
+References
+6B4T movement
+The 6B4T movement is an online radical feminist movement that spread from South Korea whose members organize in opposition to sexism and patriarchal structures. A notable aspect of the 6B4T movement is its members' commitment to never marry men, or have heterosexual sexual relations, nor bear children.
+Beliefs
+Beginning in 2019, the movement grew out of the South Korean 4B movement, whose members also renounce sex, child-rearing, dating, and marriage with men. In Korean-language abbreviation, "6B" refers to the same four commandments of the 4B movement as well as not buying products viewed as sexist () and supporting others in the movement (), while "4T" refers to rejecting strict beauty standards (), hypersexual depictions of women in Japanese otaku culture (), religion (), and idol culture ().
+Around the world
+China
+The 6B4T movement spread to young female users of the Chinese social network Douban and became popular among well-educated women. It was a fringe element in the Chinese feminist movement, but it gained additional unintended attention in 2021 for the fact that it caught the attention of Chinese government censors. In April of that year, several Douban groups associated with the movement were shut down and the phrase "6B4T" was banned from the platform.
+See also
+Feminism in South Korea
+WOMAD
+4B movement
+Political lesbianism
+Feminism in China
+References
+Abamectin
+Abamectin (also called avermectin B1) is a widely used insecticide and anthelmintic. Abamectin, is a member of the avermectin family and is a natural fermentation product of soil dwelling actinomycete Streptomyces avermitilis. Abamectin differs from ivermectin, the popular member of the avermectin family, by a double bond between carbons 22 and 23. Fermentation of Streptomyces avermitilis yields eight closely related avermectin homologs, with the B1a and B1b forms comprising the majority of the fermentation. The non-proprietary name, abamectin, refers to a mixture of B1a (~80%) and B1b (~20%). Out of all the avermectins, abamectin is the only one that is used both in agriculture and pharmaceuticals.
+Mode of action
+Avermectins bind to the glutamate-gated chloride channels that are found in invertebrate nerve and muscle cells. They cause hyperpolarization of these cells resulting in paralysis and death. Mammals only possess glutamate-gated chloride channels in the brain and spinal cord and as the avermectins have a low affinity for other mammalian ligand-gated channels and do not usually cross the blood–brain barrier, they are very safe for mammals.
+History
+Avermectins were discovered in 1967 in fermentation broths of an actinomycete culture received from the Kitasato Institute in Japan, following an intensive search designed to find natural products with anthelmintic activity. It was not until 1985 ivermectin was first used to treat infections with Onchocerca volvulus (onchocerciasis or river blindness) in humans by the United Nations. The discoverers of avermectin,  William C. Campbell and Satoshi Ōmura, shared the 2015 Nobel Prize in Physiology or Medicine.
+Activity
+Abamectin is an insecticide as well as an acaricide (miticide) and a nematicide. It is also used to control fire ants. Abamectin is provided orally to horses for deworming them.
+Use
+Abamectin is also used as a veterinary antihelmintic.  Resistance to abamectin-based antihelmintics, although a growing problem, is not as common as to other classes of veterinary antihelmintics. The benzoate salt emamectin benzoate is also used as an insecticide. Avermectins have been used to treat various ailments caused by parasites in both humans and animals. Avermectins including abamectin were studied for use as anti alcohol therapies. Recently, ivermectin is being studied for use as an anti inflammatory agent.
+Environmental fate
+Abamectin degrades rapidly when exposed to light (photodegradation) on plant surfaces, in soil, dung and water. Half life of Avermectins (including abamectin) varies between 0.5 and 23 days depending on the rate and substrate (water, soil, faeces or plant). Avermectin B1a applied at 0.02–0.03 lb ai/acre (50% higher than recommended rates) resulted in very low residue.
+Non targets
+Abamectin is highly toxic to bees either if they consume or come in direct contact. However, plant parts exposed to abamectin spraying did not cause toxicity to bees 24 hours after treatment. The reason for lower toxicity in foliage is due to a half life <24 hours in plant surfaces.
+Trade names
+Trade names include Abba, Abathor, Affirm, Agri-Mek, Avid, Dynamec, Epi-Mek, Genesis Horse Wormer, Reaper, Termictine 5%, Vertimec,
+CAM-MEK 1.8% EC (cam for agrochemicals), Zephyr and Cure 1.8 EC.
+Abamet from Rainbow
+References
+Further reading
+Abiogenesis
+Abolitionism (animal rights)
+thumb|2015 anti-speciesism protest by abolitionists in Montreal
+Abolitionism or abolitionist veganism is the animal rights based opposition to all animal use by humans. Abolitionism intends to eliminate all forms of animal use by maintaining that all sentient beings, humans or nonhumans, share a basic right not to be treated as properties or objects.The Six Principles of the Abolitionist Approach to Animal RightsFrancione, Gary. "Animal Rights: The Abolitionist Approach" Abolitionists emphasize that the production of animal products requires treating animals as property or resources, and that animal products are not necessary for human health in modern societies.Gary Francione, Eat Like You CareHowDoIGoVegan.com Abolitionists believe that everyone who can live vegan is therefore morally obligated to be vegan.
+Abolitionists disagree on the strategy that must be used to achieve their goal. While some abolitionists, like Gary L. Francione, professor of law, argue that abolitionists should create awareness about the benefits of veganism through creative and nonviolent education (by also pointing to health and environmental benefits) and inform people that veganism is a moral imperative, others such as Tom Regan believe that abolitionists should seek to stop animal exploitation in society, and fight for this goal through political advocacy, without using the environmental or health arguments. Abolitionists such as Steven Best and David Nibert argue, respectively, that embracing alliance politics and militant direct action for change (including civil disobedience, mass confrontation, etc), and transcending capitalism are integral to ending animal exploitation.
+Abolitionists generally oppose movements that seek to make animal use more humane or to abolish specific forms of animal use, since they believe this undermines the movement to abolish all forms of animal use. The objective is to secure a moral and legal paradigm shift, whereby animals are no longer regarded as things to be owned and used. The American philosopher Tom Regan writes that abolitionists want empty cages, not bigger ones. This is contrasted with animal welfare, which seeks incremental reform, and animal protectionism, which seeks to combine the first principles of abolitionism with an incremental approach, but which is regarded by some abolitionists as another form of welfarism or "New Welfarism".Francione, Gary L. and Garner, Robert. The Animal Rights Debate. Columbia University Press, 2010.
+Concepts
+thumb|left|Abolitionists oppose horse racing as they believe it is a form of animal exploitation.
+The word relates to the historical term abolitionism—a social movement to end slavery or human ownership of other humans. Based on the way of evaluating welfare reforms, abolitionists can be either radical or pragmatic. While the former maintain that welfare reforms can only be dubiously described as moral improvements, the latter consider welfare reforms as moral improvements even when the conditions they permit are unjust.
+Gary L. Francione, professor of law and philosophy at Rutgers School of Law–Newark, argues from the abolitionist perspective that self-described animal-rights groups who pursue welfare concerns, such as People for the Ethical Treatment of Animals, risk making the public feel comfortable about its use of animals. He calls such groups the "new welfarists", arguing that, though their aim is an end to animal use, the reforms they pursue are indistinguishable from reforms agreeable to traditional welfarists, who he says have no interest in abolishing animal use. He argues that reform campaigns entrench the property status of animals, and validate the view that animals simply need to be treated better. Instead, he writes, the public's view that animals can be used and consumed ought to be challenged. His position is that this should be done by promoting ethical veganism.Francione 1996, chapter. 5. Others think that this should be done by creating a public debate in society.
+Philosopher Steven Best of the University of Texas at El Paso has been critical of Francione for his denunciation of militant direct actions carried out by the underground animal liberation movement and organizations like the Animal Liberation Front, which Best compares favorably to the "nineteenth-century-abolitionist movement" to end slavery, and also for placing the onus on individual consumers rather than powerful institutions such as corporations, the state and the mass media along with ignoring the "constraints imposed by poverty, class, and social conditioning." In this, he says that Francione "exculpates capitalism" and fails to "articulate a structural theory of oppression." The "vague, elitist, asocial 'vegan education' approach," Best argues, is no substitute for "direct action, mass confrontation, civil disobedience, alliance politics, and struggle for radical change."
+Sociologist David Nibert of Wittenberg University argues that attempting to create a vegan world under global capitalism is unrealistic given that "tens of millions of animals are tortured and brutally killed every year to produce profits for twenty-first century elites, who hold investments in the corporate equivalents of Genghis Khan" and that any real and meaningful change will only come by transcending capitalism. He writes that the contemporary entrenchment of capitalism and continued exploitation of animals by human civilization dovetail into the ongoing expansion of what he describes as the animal–industrial complex, with the number of CAFOs and the animals to fill them dramatically increasing, along with growing numbers of humans consuming animal products. He rhetorically asks, how can one  hope to create some consumer base for this new vegan world when over a billion people live on less than a dollar a day? Nibert acknowledges that post-capitalism on its own will not automatically end animal exploitation or bring about a more just world, but that it is a "necessary precondition" for such changes.
+New welfarists argue that there is no logical or practical contradiction between abolitionism and "welfarism". Welfarists think that they can be working toward abolition, but by gradual steps, pragmatically taking into account what most people can be realistically persuaded to do in the short as well as the long term, and reduce animal suffering as it is most urgent to relieve. People for the Ethical Treatment of Animals, for example, in addition to promoting local improvements in the treatment of animals, promote vegetarianism. Although some people believe that changing the legal status of nonhuman sentient beings is a first step in abolishing ownership or mistreatment, others argue that this will not succeed if the consuming public has not already begun to reduce or eliminate its exploitation of animals for food.
+Personhood
+In 1992, Switzerland amended its constitution to recognize animals as beings and not things. The dignity of animals is also protected in Switzerland.
+New Zealand granted basic rights to five great ape species in 1999. Their use is now forbidden in research, testing or teaching.
+Germany added animal welfare in a 2002 amendment to its constitution, becoming the first European Union member to do so.Constitutional Protection for Germany's Animals. page 13
+In 2007, the parliament of the Balearic Islands, an autonomous province of Spain, passed the world's first legislation granting legal rights to all great apes.
+In 2013, India officially recognized dolphins as non-human persons.
+In 2014, France revised the legal status of animals from movable property to sentient beings.
+In 2015, the province of Quebec in Canada adopted the Animal Welfare and Safety Act, which gave animals the legal status of "sentient beings with biological needs"."Domestic animal legislation in Quebec"Animal Welfare and Safety Act
+See also
+Animal liberationist
+Animal rights
+List of animal rights advocates
+References
+Further reading
+Francione, Gary. Rain Without Thunder: The Ideology of the Animal Rights Movement. Temple University Press, 1996.
+Francione, Gary and Garner, Robert. The Animal Rights Debate: Abolition Or Regulation?. Columbia University Press, 2010.
+Francione, Gary. Ingrid Newkirk on Principled Veganism: "Screw the principle", Animal Rights: The Abolitionist Approach, September 2010.
+Francione, Gary. "Animal Rights: The Abolitionist Approach", accessed February 26, 2011.
+Francione, Gary. Animals, Property, and the Law. Temple University Press, 1995.
+Hall, Lee. "An Interview with Professor Gary L. Francione on the State of the U.S. Animal Rights Movement", Friends of Animals, accessed February 25, 2008.
+Regan, Tom. Empty Cages. Rowman & Littlefield Publishers, Inc., 2004.
+Regan, Tom. "The Torch of Reason, The Sword of Justice", animalsvoice.com, accessed May 29, 2012.
+Regan, Tom. "On Achieving Abolitionist Goals", Animal Rights Zone, May 18, 2011, accessed May 24, 2011.
+Regan, Tom. The Case for Animal Rights. University of California Press, 1980.
+Abundance (ecology)
+thumb|Effects of herbivore abundance in seagrass meadows.
+In ecology, local abundance is  the relative representation of a species in a particular ecosystem. It is usually measured as the number of individuals found per sample. The ratio of abundance of one species to one or multiple other species living in an ecosystem is referred to as relative species abundances. Both indicators are relevant for computing biodiversity.
+A variety of sampling methods are used to measure abundance. For larger animals, these may include spotlight counts, track counts and roadkill counts, as well as presence at monitoring stations. In many plant communities the abundances of plant species are measured by plant cover, i.e. the relative area
+covered by different plant species in a small plot. Abundance is in simplest terms usually measured by identifying and counting every individual of every species in a given sector. It is common for the distribution of species to be skewed so that a few species take up the bulk of individuals collected.
+Relative species abundance is calculated by dividing the number of species from one group by the total number of species from all groups.
+Community ecology
+These measures are all a part of community ecology. Understanding patterns within a community is easy when the community has a relatively low number of species. However most communities do not have a low number of species. Measuring species abundance allows for understanding of how species are distributed within an ecosystem. For example, salt water marshes have an influx of sea water, causing only a few species which are adapted to be able to survive in both salt and fresh water to be abundant. Inversely in land locked wetlands, the species abundance is more evenly distributed among the species who live within the wetland.
+In most ecosystems in which abundance has been calculated, most often only a small number of species are abundant, while a large number are pretty rare. These abundant species are often generalists, with many rare species being specialists. High density of a species in multiple localities will usually lead to it being relatively abundant over all in an ecosystem. Therefore, high local abundance can be directly linked to high regional distribution. Species with high abundance are likely to have more offspring, and these offspring in turn are more likely to colonize a new sector of the ecosystem than a species which is less abundant. Thus begins a positive feedback loop leading to a species distribution in which a few "core species" are wide spread, and the other species are restricted and scarce known as satellite species.
+Species abundance distribution
+Species abundance distribution (SAD) is one of the main uses of this measurement. SAD is a measurement of how common, or rare species are within an ecosystem.Baldridge E, Harris DJ, Xiao X, White EP. 2016. An extensive comparison of species-abundance distribution models. PeerJ 4:e2823. This allows researchers to assess how different species are distributed throughout an ecosystem. SAD is one of the most basic measurements in ecology and is used very often, therefore many different methods of measurement and analysis have developed.
+Measurement
+There are several methods for measuring abundance. An example of this is Semi-Quantitive Abundance ratings. These are measurement methods which involve estimation based on viewing a specific area of a designated size. The two Semi-Quantitive Abundance ratings used are known as the D.A.F.O.R, and the A.C.F.O.R.
+The A.C.F.O.R. scale is as follows:
+A – Species observed is "Abundant" within the given area.
+C – Species observed is "Common" within the given area.
+F – Species observed is "Frequent" within the given area.
+O – Species observed is "Occasional" within the given area
+R – Species observed is "Rare" within the given area.
+D.A.F.O.R scale:
+D - Species observed is "Dominant" in a given area.
+A - Species observed is "Abundant" in a given area.
+F - Species observed is "Frequent" in a given area.
+O - Species observed is "Occasional" in a given area.
+R - Species observed is "Rare" in a given area.
+These methods are useful for getting a rough estimate of the species abundance in a designated area (quadrant), but they are not exact or objective measurements. Therefore, if another method of measuring abundance is available, it should be used, as this will lead to more useful and quantifiable data.
+See also
+Abundance estimation
+Cover-abundance
+Living Planet Index
+Occupancy–abundance relationship
+Plant cover
+Range (biology)
+Relative abundance distribution
+Species richness
+References
+External links
+"Abundance in ecology" (article, with works cited)
+Abyssal zone
+The abyssal zone or abyssopelagic zone is a layer of the pelagic zone of the ocean. The word abyss comes from the Greek word  (), meaning "bottomless". At depths of , this zone remains in perpetual darkness. It covers 83% of the total area of the ocean and 60% of Earth's surface. The abyssal zone has temperatures around  through the large majority of its mass. The water pressure can reach up to .
+As there is no light, photosynthesis cannot occur, and there are no plants producing molecular oxygen (O2), which instead primarily comes from ice that had melted long ago from the polar regions. The water along the seafloor of this zone is largely devoid of molecular oxygen, resulting in a death trap for organisms unable to quickly return to the oxygen-enriched water above or to survive in the low-oxygen environment. This region also contains a much higher concentration of nutrient salts, like nitrogen, phosphorus, and silica, due to the large amount of dead organic material that drifts down from the ocean zones above and decomposes.
+The region below the abyssal zone is the sparsely inhabited hadal zone. The region above is the bathyal zone.
+Trenches
+thumb|200px|left|Layers of the pelagic zone
+The deep trenches or fissures that plunge down thousands of meters below the ocean floor (for example, the mid-oceanic trenches such as the Mariana Trench in the Pacific) are almost unexplored. Previously, only the bathyscaphe Trieste, the remote control submarine Kaikō and the Nereus have been able to descend to these depths. However, as of March 25, 2012 one vehicle, the Deepsea Challenger, had penetrated to a depth of 10,898 meters (35,756 ft).
+Ecosystem
+The relative sparsity of primary producers means that the majority of organisms living in the abyssal zone depend on the marine snow that falls from oceanic layers above. The biomass of the abyssal zone actually increases near the seafloor as most of the decomposing material and decomposers rest on the seabed.
+The composition of the abyssal plain depends on the depth of the sea floor. Above 4000 meters the seafloor usually consists of calcareous shells of foraminifera, zooplankton, and phytoplankton. At depths greater than 4000 meters shells dissolve, leaving behind a seafloor of brown clay and silica from dead zooplankton and phytoplankton. Chemosynthetic bacteria support large and diverse communities near hydrothermal vents, filling a similar role in these ecosystems as plants do in the sunlit regions above.
+A new insight into the complexity of the abyssal environment has been provided by a team of researchers from the Scottish Society of Marine Sciences. They have found that manganese nodules on the deep sea floor produce free oxygen from water molecules.
+The manganese nodules act as a kind of battery as they contain different metals, and they release oxygen into the environment. Because it was previously thought that only plants and algae produce dark oxygen (oxygen produced without light), this can be seen as a scientific breakthrough.
+Biological adaptations
+Organisms that live at this depth have had to evolve to overcome challenges provided by the abyssal zone. Fish and invertebrates had to evolve to withstand the sheer cold and intense pressure found at this level. Not only did they have to find ways to hunt and survive in constant darkness, but they also had to thrive in an ecosystem that has less oxygen and biomass, energy sources and prey, than the upper zones. To survive in these conditions, many fish and other organisms developed a much slower metabolism, and require much less oxygen than those in upper zones. Many animals also move very slowly to conserve energy. Their reproduction rates are also very slow, to decrease competition and conserve energy. Animals here typically have flexible stomachs and mouths, so that when scarce prey are found they can consume as many as possible.
+thumb|A dense gathering of Rimicaris hybisae shrimp at the Beebe Hydrothermal Vent Field in the Mid-Cayman Rise. The shrimp are almost entirely blind, surviving at the interface of cold, deep seawater and supercritical hydrothermal fluid.
+Other challenges faced by life in the abyssal zone are the pressure and darkness caused by the zone's depth. Many organisms living in this zone have evolved to minimize internal air spaces, such as swim bladders. This adaptation helps to protect them from the extreme pressure, which can reach around 75 MPa (11,000 psi). The absence of light also spawned many different adaptations, such as having large eyes and the ability to produce their own light (bioluminescence). Large eyes would allow the detection and use of any light available, no matter how small. Commonly, animals in the abyssal zone are bioluminescent, producing blue light, because light in the blue wavelength range is attenuated over greater travel distances than other wavelengths. Due to this lack of light, complex patterns and bright colors are not needed. Most fish species have evolved to be transparent, red, or black so that they better blend in with the darkness and do not waste energy on developing and maintaining bright or complex patterns.
+Animals
+The abyssal zone is made up of many different types of organisms, including microorganisms, crustaceans, molluscs (bivalves, snails, and cephalopods), different classes of fishes, and possibly some animals that have yet to be discovered. Most of the fish species in this zone are described as demersal or benthopelagic fishes. Demersal fish are fish whose habitats are on or near (typically less than five meters from) the seafloor. Most fish species fit into that classification, because the seafloor contains most of the abyssal zone's nutrients; therefore, the most complex food web or greatest biomass would be in this region of the zone.
+Organisms in the abyssal zone rely on the natural processes of higher ocean layers. When animals from higher ocean levels die, their carcasses occasionally drift down to the abyssal zone, where organisms in the deep can feed on them. When a whale carcass falls down to the abyssal zone, this is called a whale fall. The carcass of the whale can create complex ecosystems for organisms in the depths.
+Benthic organisms in the abyssal zone would need to have evolved morphological traits that could either keep them out of oxygen-depleted water above the sea floor or enable them to extract oxygen from the water above, while also allowing the animal access to the seafloor and the nutrients located there. There are also animals that spend their time in the upper portion of the abyssal zone, some of which even occasionally spend time in the zone directly above, the bathyal zone. While there are a number of different fish species representing many different groups and classes, like Actinopterygii (ray-finned fish), there are no known members of the class Chondrichthyes (animals such as sharks, rays, and chimaeras) that make the abyssal zone their primary or constant habitat. Whether this is due to the limited resources, energy availability, or other physiological constraints is unknown. Most Chondrichthyes species only go as deep as the bathyal zone.
+Creatures that live in the abyssal zone include:
+Tripod fish (Bathypterois grallator): their habitat is along the ocean floor, usually around 4,720 m below sea level. Their pelvic fins and caudal fin have long bony rays protruding from them. They face the current while standing still on their long rays. Once they sense food nearby, they use their large pectoral fins to hit the unsuspecting prey towards their mouth. Each member of this species has both male and female reproductive organs so that if a mate cannot be found, they can self-fertilize.
+Dumbo octopus: this octopus usually lives at a depth between 1,000 and 7,000 meters, deeper than any other known octopus. They use the fins on top of their head, which look like flapping ears, to hover over the sea floor looking for food. They use their arms to help change directions or crawl along the seafloor. To combat the intense pressure of the abyssal zone, this octopus species lost its ink sac during evolution. They also use their strand-like structured suction cups to help detect predators, food, and other aspects of their environment.
+Cusk eel (genus Bassozetus): there are no known fish that live at depths greater than the cusk eel. The depth of the cusk eel habitat can be as great as 8,370 meters below sea level. This animal's ventral fins are specialized forked barbel-like organs that act as sensory organs. Cusk eels produce sounds to mate. Male cusk eels have two pairs of sonic muscles, while female cusk eels have three.
+Abyssal grenadier: this resident of the abyssal zone is known to live at depths ranging from 800 and 4,000 meters. It has extremely large eyes, but a small mouth. It is thought to be a semelparous species, meaning it only reproduces once and then dies. This is seen as a way for the organism to conserve energy and have a higher chance of having some healthy strong children. This reproductive strategy could be very useful in low energy environments such as the abyssal zone.
+Pseudoliparis swirei: the Mariana snailfish, or Mariana hadal snailfish, is a species of snailfish found at hadal depths in the Mariana Trench in the western Pacific Ocean. It is known from a depth range of 6,198–8,076 m (20,335–26,496 ft), including a capture at 7,966 m (26,135 ft), which is possibly the record for a fish caught on the seafloor.
+Environmental concerns
+Climate change has had negative effects on the abyssal zone. Due to the zone's depth, increasing global temperatures do not affect it as quickly or drastically as the rest of the world, but the zone is still afflicted by ocean acidification. Pollutants, such as plastics, are also present in this zone. Plastics are especially bad for the abyssal zone because these organisms have evolved to eat or try to eat anything that moves or appears to be detritus, resulting in organisms consuming plastics instead of nutrients. Both ocean acidification and pollution are decreasing the already small biomass that resides within the abyssal zone.
+Another problem caused by humans is overfishing. Even though no fishery can fish for organisms anywhere near the abyssal zone, they can still cause harm in deeper waters. The abyssal zone depends on dead organisms from the upper zones sinking to the seafloor, since the ecosystem lacks producers due to a lack of sunlight. As fish and other animals are removed from the ocean, the frequency and amount of dead material reaching the abyssal zone decreases.
+Deep sea mining operations could cause problems for the abyssal zone in the future. The talks and planning for this industry are already under way. Deep sea mining could be disastrous for this extremely fragile ecosystem since there are many ecological dangers posed by mining for deep sea minerals. Mining could increase the amount of pollution not only in the abyssal zone, but in the ocean as a whole, and would physically destroy habitats and the seafloor.
+Sediment plumes generated by mining activities can spread widely, affecting filter feeders and smothering marine life. The potential release of toxic chemicals and heavy metals from mining equipment and disturbed seabed materials could lead to chemical pollution, while noise from machinery can disrupt the behavior and communication of marine animals. Physical disturbances to the seabed may destroy geological features and their associated ecosystems. Furthermore, changes in water quality and the disruption of carbon sequestration processes, where organic carbon is stored in the deep sea, could have broader environmental impacts, including contributing to climate change. The slow rate of change in deep-sea environments and the long lifespans and reproductive cycles of abyssal species mean that recovery from such disturbances could take decades or centuries.
+See also
+Abyssal plain
+Beebe Hydrothermal Vent Field
+Deep sea
+Deep sea community
+Deep-sea fish
+Mariana Trench
+References
+Acceptable daily intake
+Acceptable daily intake or ADI is a measure of the amount of a specific substance (originally applied for a food additive, later also for a residue of a veterinary drug or pesticide) in food or drinking water that can be ingested (orally) daily over a lifetime without an appreciable health risk. ADIs are expressed usually in milligrams (of the substance) per kilograms of body weight per day.
+History
+This concept was first introduced in 1961 by the Council of Europe and later, the Joint FAO/WHO Expert Committee on Food Additives (JECFA), a committee maintained by two United Nations bodies: the Food and Agriculture Organization (FAO) and the World Health Organization (WHO).
+Concept
+An ADI value is based on current research, with long-term studies on animals and observations of humans. First, a no-observed-adverse-effect level (NOAEL), the amount of a substance that shows no toxic effects, is determined. Usually the studies are performed with several doses including high doses. In the case of several studies on different effects, the lowest NOAEL is usually taken. Then, the NOAEL (or another point of departure such as a benchmark dose level (BMDL)) is divided by a safety factor, conventionally 100, to account for the differences between test animals and humans (factor of 10) and possible differences in sensitivity between humans (another factor of 10). Safety factors with values other than 100 may be used if information on uncertainty about the value of the point of departure (NOAEL or BMDL) justify it. For instance, if the ADI is based on data from humans the safety factor is usually 10 instead of 100. The ADI is usually given in mg per kg body weight.
+The ADI is considered a safe intake level for a healthy adult of normal weight who consumes an average daily amount of the substance in question. Increased safety factors for infants have been discussed, but are not needed, because elimination of chemicals is in fact often more rapid in children and as children generally have higher illness rates than adults, adverse effects caused by food additives can easily be disguised as any number of things children usually experience. It would be far more difficult to argue the case with a healthy adult. The ADI does not take into account allergic reactions that are individual responses rather than dose-dependent phenomena.
+The higher the ADI, the larger amounts of a compound are safe for regular ingestion. The concept of tolerable daily intake is often used for unwanted contaminants or other chemicals.
+The ADI concept can be understood as a measure to indicate the toxicity from long-term exposure to repeated ingestion of chemical compounds in foods (present and/or added), as opposed to acute toxicity.
+The threshold limit value (TLV) of a chemical substance is a level to which it is believed a worker can be exposed day after day for a working lifetime without adverse effects.
+See also
+Acceptability
+Banana Equivalent Dose
+Dietary Reference Intake
+Food labeling regulations
+International Programme on Chemical Safety
+Reference dose
+Notes
+External links
+Questions and Answers about Acceptable Daily Intake, International Food Information Council.
+Acephate
+Acephate is an organophosphate foliar and soil insecticide of moderate persistence with residual systemic activity of about 10–15 days at the recommended use rate. It is used primarily for control of aphids, including resistant species, in vegetables (e.g. potatoes, carrots, greenhouse tomatoes, and lettuce) and in horticulture (e.g. on roses and greenhouse ornamentals). It also controls leaf miners, caterpillars, sawflies, thrips, and spider mites in the previously stated crops as well as turf, and forestry. By direct application to mounds, it is effective in destroying imported fire ants.
+Acephate is sold as a soluble powder, as emulsifiable concentrates, as pressurized aerosol, and in tree injection systems and granular formulations.
+As of 2012, the EPA no longer allows the usage of acephate on green beans grown in the United States.
+Toxicology
+It is considered non-phytotoxic on many crop plants. Acephate and its primary metabolite, methamidophos, are toxic to Heliothis spp. that are considered resistant to other organophosphate insecticides. Acephate emits toxic fumes of various oxides of phosphorus, nitrogen, and sulfur when heated to decomposition. Symptoms of exposure to acephate include a slight irritation of eyes and skin.
+The U.S. annually uses 4–5 million pounds of acephate.
+The EU classifies Acephate as an Annex III substance, meaning that it meets the requirements to be considered a health and environmental hazard.
+References
+U.S. EPA Office of Pesticide Programs.
+Extension Toxicology Network. Pesticide Information Profiles.
+Cooperative Extension Offices of Cornell University, Oregon State University, the University of Idaho, and the University of California at Davis.
+Institute for Environmental Toxicology, Michigan State University.
+External links
+Acephate General Fact Sheet - National Pesticide Information Center
+Acephate Pesticide Information Profile - Extension Toxicology Network
+EPA Acephate Reregistration Eligibility Decision
+Acharius Medal
+__NOTOC__
+thumb|right|Photo of the certificate accompanying Acharius Medal awarded to David J. Galloway in 2008
+The Acharius Medal is awarded by the International Association for Lichenology (IAL) for lifetime achievement in lichenology. The organization resolved at its 1990 meeting that it would simultaneously honor professional achievement and commemorate Erik Acharius (recognized as the "Father of Lichenology") by presenting a medal in his name.
+The first Acharius Medal was made in 1846 by the Royal Swedish Mint for the Royal Swedish Academy of Sciences, although the original purpose for that medal is not known. Because the Swedish Mint still had the dies for the original medal, the IAL arranged for new medals to be made. The first of the new medals were awarded in that same year (1992) at the association's congress in Båstad, Sweden.
+The medal
+The medal is silver, with Acharius' profile on one side and the recipient's name on the other.
+Recipients
+Source:
+2024:
+Kansri Boonpragob
+2021:
+Per Magnus Jørgensen
+James D. Lawrey
+2018:
+William Alfred Weber
+2016:
+Thomas George Allan Green
+Josef Hafellner
+Bruce McCune
+2014:
+Peter Crittenden
+Pier Luigi Nimis
+2012:
+Ana Crespo
+Leif Tibell
+2010:
+Brian J. Coppins
+Thomas Hawkes Nash
+2008:
+David J. Galloway
+Hannes Hertel
+Rosmarie Honegger
+2006:
+Mark R. D. Seaward
+2004:
+John A. Elix
+Ludger Kappen
+Marie-Agnès Letrouit-Galinou
+2003
+David C. Smith
+2002:
+David L. Hawksworth
+2000:
+Teuvo Ahti
+Georges Clauzade
+Nina Golubkova
+1996:
+Vernon Ahmadjian
+Siegfried Huneck
+Christian Leuckert
+1994:
+Irwin M. Brodo
+Margalith Galun
+Syo Kurokawa
+Elisabeth Tschermak-Woess
+1992:
+Dharani Dhar Awasthi
+Chicita F. Culberson
+William L. Culberson
+Gunnar Degelius
+Aino Henssen
+Peter Wilfred James
+Hildur Krog
+Otto Ludwig Lange
+Josef Poelt
+Rolf Santesson
+John W. Thomson
+Hans Trass
+Antonin Vězda
+See also
+List of biology awards
+References
+External links
+List of Acharius Medal recipients
+Acidophile
+Acidophiles or acidophilic organisms are those that thrive under highly acidic conditions (usually at pH 5.0 or below). These organisms can be found in different branches of the tree of life, including Archaea, Bacteria,Becker, A., Types of Bacteria Living in Acidic pH". Retrieved 10 May 2017. and Eukarya.
+Examples
+A list of these organisms includes:
+Archaea
+Sulfolobales, an order in the Thermoproteota branch of Archaea
+Thermoplasmatales, an order in the Euryarchaeota branch of Archaea
+ARMAN, in the Euryarchaeota branch of Archaea
+Acidianus brierleyi, A. infernus, facultatively anaerobic thermoacidophilic archaebacteria
+Halarchaeum acidiphilum, acidophilic member of the Halobacteriacaeae
+Metallosphaera sedula, thermoacidophilic
+Bacteria
+Acidobacteriota, a phylum of Bacteria
+Acidithiobacillales, an order of Pseudomonadota e.g. A. ferrooxidans, A. thiooxidans
+Thiobacillus prosperus, T. acidophilus, T. organovorus, T. cuprinus
+Acetobacter aceti, a bacterium that produces acetic acid (vinegar) from the oxidation of ethanol.
+Alicyclobacillus, a genus of bacteria that can contaminate fruit juices.
+Eukarya
+Mucor racemosus
+Urotricha
+Dunaliella acidophila
+Members of the algal class Cyanidiophyceae, including Cyanidioschyzon merolae
+Mechanisms of adaptation to acidic environments
+Most acidophile organisms have evolved extremely efficient mechanisms to pump protons out of the intracellular space in order to keep the cytoplasm at or near neutral pH. Therefore, intracellular proteins do not need to develop acid stability through evolution. However, other acidophiles, such as Acetobacter aceti, have an acidified cytoplasm which forces nearly all proteins in the genome to evolve acid stability. For this reason, Acetobacter aceti has become a valuable resource for understanding the mechanisms by which proteins can attain acid stability.
+Studies of proteins adapted to low pH have revealed a few general mechanisms by which proteins can achieve acid stability.  In most acid stable proteins (such as pepsin and the soxF protein from Sulfolobus acidocaldarius), there is an overabundance of acidic residues which minimizes low pH destabilization induced by a buildup of positive charge. Other mechanisms include minimization of solvent accessibility of acidic residues or binding of metal cofactors. In a specialized case of acid stability, the NAPase protein from Nocardiopsis alba was shown to have relocated acid-sensitive salt bridges away from regions that play an important role in the unfolding process. In this case of kinetic acid stability, protein longevity is accomplished across a wide range of pH, both acidic and basic.
+See also
+Acidophiles in acid mine drainage
+Acidophobe
+Neutrophile
+Acidophile (histology)
+References
+Further reading
+Actin-binding protein
+Actin-binding proteins (also known as ABPs) are proteins that bind to actin. This may mean ability to bind actin monomers, or polymers, or both.
+Many actin-binding proteins, including α-actinin, β-spectrin, dystrophin, utrophin and fimbrin, do this through the actin-binding calponin homology domain.
+This is a list of actin-binding proteins in alphabetical order.
+0–9
+25kDa
+25kDa ABP from aorta
+30akDA
+30bkDa
+34kDA
+45kDa
+110 kD dimer ABP
+110 kD (Drebrin)
+p53
+p58gag "p58gag" in The Encyclopaedia of Actin-Binding Proteins (and Drugs) , op. cit.
+p185neu
+p116rip
+A
+a-actinin
+Abl
+ABLIM
+Actin-Interacting MAPKKK Ssk2p
+ABP120
+ABP140
+Abp1p
+ABP280 (Filamin)
+ABP50 (EF-1a)
+Acan 125 (Carmil)
+ActA
+Actibind
+Actin
+Actinfilin
+Actinogelin
+Actin-regulating kinases
+Actin-Related Proteins
+Actobindin
+Actolinkin
+Actopaxin
+Actophorin
+Acumentin (= L-plastin)
+Adducin
+ADF/Cofilin
+Adseverin (scinderin)
+Afadin
+AFAP-110
+Affixin
+Aginactin
+AIP1
+Aldolase
+Angiogenin
+Anillin
+Annexins
+Aplyronine
+Archvillin (isoform of Supervillin)
+Arginine kinase
+Arp2/3 complex
+B
+Band 4.1
+Band 4.9 (Dematin)
+b-actinin
+b-Cap73
+Bifocal
+Bistramide A
+BPAG1
+Brevin (Gelsolin)
+C
+c-Abl
+Calpactin (Annexin)
+CHO1
+Cortactin
+CamKinase II
+Calponin
+Chondramide
+Cortexillin
+CAP
+Caltropin
+CH-ILKBP
+CPb3
+Cap100
+Calvasculin
+Ciboulot
+Coactosin
+CAP23
+CARMIL
+Acan125
+Cingulin
+Cytovillin (Ezrin)
+CapZ/Capping Protein
+a-Catenin
+Cofilin
+CR16
+Caldesmon
+CCT
+Comitin
+Calicin
+Centuarin
+Coronin
+D
+DBP40
+Drebrin
+Dematin (Band 4.9)
+Dynacortin
+Destrin (ADF/cofilin)
+Dystonins
+Diaphanous
+Dystroglycan
+DNase I
+Dystrophin
+Doliculide
+Dolastatins
+E
+EAST
+Endossin
+EF-1a (ABP50)
+Eps15
+EF-1b
+EPLIN
+EF-2
+Epsin
+EGF receptor
+ERK
+ENC-1
+ERM proteins (ezrin, radixin, moesin, plus merlin)
+END3p
+Ezrin (the E of ERM protein family)
+F
+F17R
+Fodrin (spectrin)
+Fascin
+Formins
+Fessilin
+Frabin
+FHL3
+Fragmin
+Fhos
+FLNA   (filamin A)
+Fimbrin (plastin)
+G
+GAP43
+Glycogenins
+Gas2
+G-proteins
+Gastrin-Binding Protein
+Gelactins I-IV
+Gelsolins
+Girdin
+Glucokinase
+H
+Harmonin b
+Hrp36
+Hexokinase
+Hrp65-2
+Hectochlorin
+HS1 (actin binding protein)
+Helicase II
+Hsp27
+HIP1 (Huntingtin Interacting protein 1)
+Hsp70
+Histactophilin
+Hsp90
+Histidine rich protein II
+Hsp100
+I
+Inhibitor of apoptosis (IAP)
+Insertin
+Interaptin
+IP3Kinase A (Inositol 1,4,5-trisphosphate 3-kinase A)
+IQGAP
+Integrins
+J
+Jaspisamide A
+Jasplakinolide
+K
+Kabiramide C
+Kaptin
+Kettin
+Kelch protein
+L
+5-Lipoxygenase
+Limatin
+Lim Kinases
+Lim Proteins
+L-plastin
+Lymphocyte Specific Protein 1 (LSP1)
+M
+MACF1
+MacMARKS
+Mena
+Myopodin
+MAP1A
+Merlin (related to the ERM proteins)
+Myosins
+MAP-1C
+Metavinculin
+Moesin (the M of ERM proteins)
+Myosin light chain kinase
+MAL
+Mip-90
+Myosin Light Chain A1
+MARKS
+MIM
+MAYP
+Mycalolide (a macroglide drug)
+Mayven
+Myelin basic protein
+N
+Naphthylphthalamic acid binding protein  (NPA) N-RAP
+Nebulin
+N-WASP
+Neurabin
+Nullo
+Neurexins
+Neurocalcin
+Nexillin
+O
+OYE2
+P
+Palladin
+Plastin
+p30
+PAK (p21-activated Kinase)
+Plectin
+p47PHOX
+Parvin (actopaxin)
+Prefoldin
+p53
+PASK (Proline, Alanine rich Ste20 related Kinase)
+Presenilin I
+p58
+Phalloidin (not a protein; a small cyclic peptide)
+Profilin
+p185neu
+Ponticulin
+Protein kinase C
+Porin
+P.IB
+Prk1p (actin regulating kinase)
+R
+Radixin (the R of ERM proteins)
+Rapsyn
+Rhizopodin
+RPL45
+RTX toxin (Vibrio cholerae)
+RVS 167
+S
+Sac6
+Sla1p
+Srv2 (CAP)
+S-adenosyl-L-homocysteine hydrolase, (SAHH)
+Sla2p
+Synaptopodin
+Scinderin (adseverin)
+Synapsins
+Scruin
+Spectrin
+Severin
+Spectraplakins
+SVSII
+Shot (Short stop)
+Spire
+Shroom
+Smitin (Smooth Musc.Titin)
+Supervillin
+SipA
+Smoothelin
+Sucrose synthetase
+SipC
+Sra-1
+Spinophilin
+Ssk2p
+Swinholide
+T
+Talin protein
+Toxophilin
+Twinfilin
+Tau
+Trabeculin
+Twinstar
+TCP-1
+Transgelin
+Transgelin 2
+Transgelin 3
+Tensin
+Tropomodulin
+Thymosin
+Tropomyosin
+Titin
+Troponin
+TOR2
+Tubulin bIV
+U
+Ulapualide
+Utrophin
+Unc-87
+Unc-60 (ADF/cofilins)
+V
+VASP
+Vav
+Verprolin
+VDAC
+Vibrio cholerae RTX toxin
+Villin
+Vinculin
+Vitamin D-binding protein
+W
+WIP
+WASp
+Y
+Y-box proteins
+YpkA (YopO)
+Z
+Zipper protein
+Zo-1
+Zyxin
+See also
+Cytoskeletal drugs
+References
+External links
+The Encyclopaedia of Actin-Binding Proteins (and Drugs)– alphabetical list, sourced profile for each
+Action potential
+thumb|upright=1.5|As an action potential (nerve impulse) travels down an axon, there is a change in electric polarity across the membrane of the axon. In response to a signal from another neuron, sodium- (Na+) and potassium- (K+)gated ion channels open and close as the membrane reaches its threshold potential. Na+ channels open at the beginning of the action potential, and Na+ moves into the axon, causing depolarization. Repolarization occurs when K+ channels open and K+ moves out of the axon, creating a change in electric polarity between the outside of the cell and the inside. The impulse travels down the axon in one direction only, to the axon terminal where it signals other neurons.
+An action potential (also known as a nerve impulse or "spike" when in a neuron) is a series of quick changes in voltage across a cell membrane. An action potential occurs when the membrane potential of a specific cell rapidly rises and falls. This depolarization then causes adjacent locations to similarly depolarize. Action potentials occur in several types of excitable cells, which include animal cells like neurons and muscle cells, as well as some plant cells. Certain endocrine cells such as pancreatic beta cells, and certain cells of the anterior pituitary gland are also excitable cells.
+In neurons, action potentials play a central role in cell–cell communication by providing for—or with regard to saltatory conduction, assisting—the propagation of signals along the neuron's axon toward synaptic boutons situated at the ends of an axon; these signals can then connect with other neurons at synapses, or to motor cells or glands. In other types of cells, their main function is to activate intracellular processes. In muscle cells, for example, an action potential is the first step in the chain of events leading to contraction. In beta cells of the pancreas, they provoke release of insulin.  The temporal sequence of action potentials generated by a neuron is called its "spike train". A neuron that emits an action potential, or nerve impulse, is often said to "fire".
+Action potentials are generated by special types of voltage-gated ion channels embedded in a cell's plasma membrane. These channels are shut when the membrane potential is near the (negative) resting potential of the cell, but they rapidly begin to open if the membrane potential increases to a precisely defined threshold voltage, depolarising the transmembrane potential. When the channels open, they allow an inward flow of sodium ions, which changes the electrochemical gradient, which in turn produces a further rise in the membrane potential towards zero. This then causes more channels to open, producing a greater electric current across the cell membrane and so on. The process proceeds explosively until all of the available ion channels are open, resulting in a large upswing in the membrane potential. The rapid influx of sodium ions causes the polarity of the plasma membrane to reverse, and the ion channels then rapidly inactivate. As the sodium channels close, sodium ions can no longer enter the neuron, and they are then actively transported back out of the plasma membrane. Potassium channels are then activated, and there is an outward current of potassium ions, returning the electrochemical gradient to the resting state. After an action potential has occurred, there is a transient negative shift, called the afterhyperpolarization.
+In animal cells, there are two primary types of action potentials. One type is generated by voltage-gated sodium channels, the other by voltage-gated calcium channels. Sodium-based action potentials usually last for under one millisecond, but calcium-based action potentials may last for 100 milliseconds or longer. In some types of neurons, slow calcium spikes provide the driving force for a long burst of rapidly emitted sodium spikes. In cardiac muscle cells, on the other hand, an initial fast sodium spike provides a "primer" to provoke the rapid onset of a calcium spike, which then produces muscle contraction.
+Overview
+thumb|right|Shape of a typical action potential. The membrane potential remains near a baseline level until at some point in time, it abruptly spikes upward and then rapidly falls.
+Nearly all cell membranes in animals, plants and fungi maintain a voltage difference between the exterior and interior of the cell, called the membrane potential. A typical voltage across an animal cell membrane is −70 mV. This means that the interior of the cell has a negative voltage relative to the exterior. In most types of cells, the membrane potential usually stays fairly constant. Some types of cells, however, are electrically active in the sense that their voltages fluctuate over time. In some types of electrically active cells, including neurons and muscle cells, the voltage fluctuations frequently take the form of a rapid upward (positive) spike followed by a rapid fall. These up-and-down cycles are known as action potentials. In some types of neurons, the entire up-and-down cycle takes place in a few thousandths of a second. In muscle cells, a typical action potential lasts about a fifth of a second. In plant cells, an action potential may last three seconds or more.
+The electrical properties of a cell are determined by the structure of its membrane. A cell membrane consists of a lipid bilayer of molecules in which larger protein molecules are embedded. The lipid bilayer is highly resistant to movement of electrically charged ions, so it functions as an insulator. The large membrane-embedded proteins, in contrast, provide channels through which ions can pass across the membrane. Action potentials are driven by channel proteins whose configuration switches between closed and open states as a function of the voltage difference between the interior and exterior of the cell. These voltage-sensitive proteins are known as voltage-gated ion channels.
+Process in a typical neuron
+thumb|300px|Approximate plot of a typical action potential shows its various phases as the action potential passes a point on a cell membrane. The membrane potential starts out at approximately −70 mV at time zero. A stimulus is applied at time = 1 ms, which raises the membrane potential above −55 mV (the threshold potential). After the stimulus is applied, the membrane potential rapidly rises to a peak potential of +40 mV at time = 2 ms. Just as quickly, the potential then drops and overshoots to −90 mV at time = 3 ms, and finally the resting potential of −70 mV is reestablished at time = 5 ms.
+All cells in animal body tissues are electrically polarized – in other words, they maintain a voltage difference across the cell's plasma membrane, known as the membrane potential. This electrical polarization results from a complex interplay between protein structures embedded in the membrane called ion pumps and ion channels. In neurons, the types of ion channels in the membrane usually vary across different parts of the cell, giving the dendrites, axon, and cell body different electrical properties. As a result, some parts of the membrane of a neuron may be excitable (capable of generating action potentials), whereas others are not. Recent studies have shown that the most excitable part of a neuron is the part after the axon hillock (the point where the axon leaves the cell body), which is called the axonal initial segment, but the axon and cell body are also excitable in most cases.
+Each excitable patch of membrane has two important levels of membrane potential: the resting potential, which is the value the membrane potential maintains as long as nothing perturbs the cell, and a higher value called the threshold potential. At the axon hillock of a typical neuron, the resting potential is around −70 millivolts (mV) and the threshold potential is around −55 mV. Synaptic inputs to a neuron cause the membrane to depolarize or hyperpolarize; that is, they cause the membrane potential to rise or fall. Action potentials are triggered when enough depolarization accumulates to bring the membrane potential up to threshold. When an action potential is triggered, the membrane potential abruptly shoots upward and then equally abruptly shoots back downward, often ending below the resting level, where it remains for some period of time. The shape of the action potential is stereotyped; this means that the rise and fall usually have approximately the same amplitude and time course for all action potentials in a given cell. (Exceptions are discussed later in the article) In most neurons, the entire process takes place in about a thousandth of a second. Many types of neurons emit action potentials constantly at rates of up to 10–100 per second. However, some types are much quieter, and may go for minutes or longer without emitting any action potentials.
+Biophysical basis
+Action potentials result from the presence in a cell's membrane of special types of voltage-gated ion channels. A voltage-gated ion channel is a transmembrane protein that has three key properties:
+It is capable of assuming more than one conformation.
+At least one of the conformations creates a channel through the membrane that is permeable to specific types of ions.
+The transition between conformations is influenced by the membrane potential.
+Thus, a voltage-gated ion channel tends to be open for some values of the membrane potential, and closed for others. In most cases, however, the relationship between membrane potential and channel state is probabilistic and involves a time delay. Ion channels switch between conformations at unpredictable times: The membrane potential determines the rate of transitions and the probability per unit time of each type of transition.
+thumb|300px|left|Action potential propagation along an axon
+Voltage-gated ion channels are capable of producing action potentials because they can give rise to positive feedback loops: the membrane potential controls the state of the ion channels, and the state of the ion channels controls the membrane potential. Thus, in some situations, a rise in the membrane potential can cause ion channels to open, thereby causing a further rise in the membrane potential. An action potential occurs when this positive feedback cycle proceeds explosively. The time and amplitude trajectory of the action potential are determined by the biophysical properties of the voltage-gated ion channels that produce it. Several types of channels capable of producing the positive feedback necessary to generate an action potential do exist. Voltage-gated sodium channels are responsible for the fast action potentials involved in nerve conduction. Slower action potentials in muscle cells and some types of neurons are generated by voltage-gated calcium channels. Each of these types comes in multiple variants, with different voltage sensitivity and different temporal dynamics.
+The most intensively studied type of voltage-dependent ion channels comprises the sodium channels involved in fast nerve conduction. These are sometimes known as Hodgkin-Huxley sodium channels because they were first characterized by Alan Hodgkin and Andrew Huxley in their Nobel Prize-winning studies of the biophysics of the action potential, but can more conveniently be referred to as NaV channels. (The "V" stands for "voltage".) An NaV channel has three possible states, known as deactivated, activated, and inactivated. The channel is permeable only to sodium ions when it is in the activated state. When the membrane potential is low, the channel spends most of its time in the deactivated (closed) state. If the membrane potential is raised above a certain level, the channel shows increased probability of transitioning to the activated (open) state. The higher the membrane potential the greater the probability of activation. Once a channel has activated, it will eventually transition to the inactivated (closed) state. It tends then to stay inactivated for some time, but, if the membrane potential becomes low again, the channel will eventually transition back to the deactivated state. During an action potential, most channels of this type go through a cycle deactivated→activated→inactivated→deactivated. This is only the population average behavior, however – an individual channel can in principle make any transition at any time. However, the likelihood of a channel's transitioning from the inactivated state directly to the activated state is very low: A channel in the inactivated state is refractory until it has transitioned back to the deactivated state.
+The outcome of all this is that the kinetics of the NaV channels are governed by a transition matrix whose rates are voltage-dependent in a complicated way. Since these channels themselves play a major role in determining the voltage, the global dynamics of the system can be quite difficult to work out. Hodgkin and Huxley approached the problem by developing a set of differential equations for the parameters that govern the ion channel states, known as the Hodgkin-Huxley equations. These equations have been extensively modified by later research, but form the starting point for most theoretical studies of action potential biophysics.
+thumb|upright=1.75|right|Ion movement during an action potential.Key: a) Sodium (Na+) ion. b) Potassium (K+) ion. c) Sodium channel. d) Potassium channel. e) Sodium-potassium pump. In the stages of an action potential, the permeability of the membrane of the neuron changes. At the resting state (1), sodium and potassium ions have limited ability to pass through the membrane, and the neuron has a net negative charge inside. Once the action potential is triggered, the depolarization (2) of the neuron activates sodium channels, allowing sodium ions to pass through the cell membrane into the cell, resulting in a net positive charge in the neuron relative to the extracellular fluid. After the action potential peak is reached, the neuron begins repolarization (3), where the sodium channels close and potassium channels open, allowing potassium ions to cross the membrane into the extracellular fluid, returning the membrane potential to a negative value. Finally, there is a refractory period (4), during which the voltage-dependent ion channels are inactivated while the Na+ and K+ ions return to their resting state distributions across the membrane (1), and the neuron is ready to repeat the process for the next action potential.
+As the membrane potential is increased, sodium ion channels open, allowing the entry of sodium ions into the cell. This is followed by the opening of potassium ion channels that permit the exit of potassium ions from the cell. The inward flow of sodium ions increases the concentration of positively charged cations in the cell and causes depolarization, where the potential of the cell is higher than the cell's resting potential. The sodium channels close at the peak of the action potential, while potassium continues to leave the cell. The efflux of potassium ions decreases the membrane potential or hyperpolarizes the cell. For small voltage increases from rest, the potassium current exceeds the sodium current and the voltage returns to its normal resting value, typically −70 mV. However, if the voltage increases past a critical threshold, typically 15 mV higher than the resting value, the sodium current dominates. This results in a runaway condition whereby the positive feedback from the sodium current activates even more sodium channels. Thus, the cell fires, producing an action potential. The frequency at which a neuron elicits action potentials is often referred to as a firing rate or neural firing rate.
+Currents produced by the opening of voltage-gated channels in the course of an action potential are typically significantly larger than the initial stimulating current. Thus, the amplitude, duration, and shape of the action potential are determined largely by the properties of the excitable membrane and not the amplitude or duration of the stimulus. This all-or-nothing property of the action potential sets it apart from graded potentials such as receptor potentials, electrotonic potentials, subthreshold membrane potential oscillations, and synaptic potentials, which scale with the magnitude of the stimulus. A variety of action potential types exist in many cell types and cell compartments as determined by the types of voltage-gated channels, leak channels, channel distributions, ionic concentrations, membrane capacitance, temperature, and other factors.
+The principal ions involved in an action potential are sodium and potassium cations; sodium ions enter the cell, and potassium ions leave, restoring equilibrium. Relatively few ions need to cross the membrane for the membrane voltage to change drastically. The ions exchanged during an action potential, therefore, make a negligible change in the interior and exterior ionic concentrations. The few ions that do cross are pumped out again by the continuous action of the sodium–potassium pump, which, with other ion transporters, maintains the normal ratio of ion concentrations across the membrane. Calcium cations and chloride anions are involved in a few types of action potentials, such as the cardiac action potential and the action potential in the single-cell alga Acetabularia, respectively.
+Although action potentials are generated locally on patches of excitable membrane, the resulting currents can trigger action potentials on neighboring stretches of membrane, precipitating a domino-like propagation. In contrast to passive spread of electric potentials (electrotonic potential), action potentials are generated anew along excitable stretches of membrane and propagate without decay.Schmidt-Nielsen, p. 484. Myelinated sections of axons are not excitable and do not produce action potentials and the signal is propagated passively as electrotonic potential. Regularly spaced unmyelinated patches, called the nodes of Ranvier, generate action potentials to boost the signal. Known as saltatory conduction, this type of signal propagation provides a favorable tradeoff of signal velocity and axon diameter. Depolarization of axon terminals, in general, triggers the release of neurotransmitter into the synaptic cleft. In addition, backpropagating action potentials have been recorded in the dendrites of pyramidal neurons, which are ubiquitous in the neocortex. These are thought to have a role in spike-timing-dependent plasticity.
+In the Hodgkin–Huxley membrane capacitance model, the speed of transmission of an action potential was undefined and it was assumed that adjacent areas became depolarized due to released ion interference with neighbouring channels. Measurements of ion diffusion and radii have since shown this not to be possible. Moreover, contradictory measurements of entropy changes and timing disputed the capacitance model as acting alone. Alternatively, Gilbert Ling's adsorption hypothesis, posits that the membrane potential and action potential of a living cell is due to the adsorption of mobile ions onto adsorption sites of cells.
+Maturation of the electrical properties of the action potential
+A neuron's ability to generate and propagate an action potential changes during development. How much the membrane potential of a neuron changes as the result of a current impulse is a function of the membrane input resistance. As a cell grows, more channels are added to the membrane, causing a decrease in input resistance. A mature neuron also undergoes shorter changes in membrane potential in response to synaptic currents. Neurons from a ferret lateral geniculate nucleus have a longer time constant and larger voltage deflection at P0 than they do at P30. One consequence of the decreasing action potential duration is that the fidelity of the signal can be preserved in response to high frequency stimulation. Immature neurons are more prone to synaptic depression than potentiation after high frequency stimulation.
+In the early development of many organisms, the action potential is actually initially carried by calcium current rather than sodium current. The opening and closing kinetics of calcium channels during development are slower than those of the voltage-gated sodium channels that will carry the action potential in the mature neurons. The longer opening times for the calcium channels can lead to action potentials that are considerably slower than those of mature neurons. Xenopus neurons initially have action potentials that take 60–90 ms. During development, this time decreases to 1 ms. There are two reasons for this drastic decrease. First, the inward current becomes primarily carried by sodium channels. Second, the delayed rectifier, a potassium channel current, increases to 3.5 times its initial strength.
+In order for the transition from a calcium-dependent action potential to a sodium-dependent action potential to proceed new channels must be added to the membrane. If Xenopus neurons are grown in an environment with RNA synthesis or protein synthesis inhibitors that transition is prevented. Even the electrical activity of the cell itself may play a role in channel expression. If action potentials in Xenopus myocytes are blocked, the typical increase in sodium and potassium current density is prevented or delayed.
+This maturation of electrical properties is seen across species. Xenopus sodium and potassium currents increase drastically after a neuron goes through its final phase of mitosis. The sodium current density of rat cortical neurons increases by 600% within the first two postnatal weeks.
+Neurotransmission
+Anatomy of a neuron
+Several types of cells support an action potential, such as plant cells, muscle cells, and the specialized cells of the heart (in which occurs the cardiac action potential). However, the main excitable cell is the neuron, which also has the simplest mechanism for the action potential.
+Neurons are electrically excitable cells composed, in general, of one or more dendrites, a single soma, a single axon and one or more axon terminals. Dendrites are cellular projections whose primary function is to receive synaptic signals. Their protrusions, known as dendritic spines, are designed to capture the neurotransmitters released by the presynaptic neuron. They have a high concentration of ligand-gated ion channels. These spines have a thin neck connecting a bulbous protrusion to the dendrite. This ensures that changes occurring inside the spine are less likely to affect the neighboring spines. The dendritic spine can, with rare exception (see LTP), act as an independent unit. The dendrites extend from the soma, which houses the nucleus, and many of the "normal" eukaryotic organelles. Unlike the spines, the surface of the soma is populated by voltage activated ion channels. These channels help transmit the signals generated by the dendrites. Emerging out from the soma is the axon hillock. This region is characterized by having a very high concentration of voltage-activated sodium channels. In general, it is considered to be the spike initiation zone for action potentials, i.e. the trigger zone. Multiple signals generated at the spines, and transmitted by the soma all converge here. Immediately after the axon hillock is the axon. This is a thin tubular protrusion traveling away from the soma. The axon is insulated by a myelin sheath. Myelin is composed of either Schwann cells (in the peripheral nervous system) or oligodendrocytes (in the central nervous system), both of which are types of glial cells. Although glial cells are not involved with the transmission of electrical signals, they communicate and provide important biochemical support to neurons. To be specific, myelin wraps multiple times around the axonal segment, forming a thick fatty layer that prevents ions from entering or escaping the axon. This insulation prevents significant signal decay as well as ensuring faster signal speed. This insulation, however, has the restriction that no channels can be present on the surface of the axon. There are, therefore, regularly spaced patches of membrane, which have no insulation. These nodes of Ranvier can be considered to be "mini axon hillocks", as their purpose is to boost the signal in order to prevent significant signal decay. At the furthest end, the axon loses its insulation and begins to branch into several axon terminals. These presynaptic terminals, or synaptic boutons, are a specialized area within the axon of the presynaptic cell that contains neurotransmitters enclosed in small membrane-bound spheres called synaptic vesicles.
+Initiation
+Before considering the propagation of action potentials along axons and their termination at the synaptic knobs, it is helpful to consider the methods by which action potentials can be initiated at the axon hillock. The basic requirement is that the membrane voltage at the hillock be raised above the threshold for firing. There are several ways in which this depolarization can occur.
+thumb|right|300px|When an action potential arrives at the end of the pre-synaptic axon (top), it causes the release of neurotransmitter molecules that open ion channels in the post-synaptic neuron (bottom). The combined excitatory and inhibitory postsynaptic potentials of such inputs can begin a new action potential in the post-synaptic neuron.|alt=The pre- and post-synaptic axons are separated by a short distance known as the synaptic cleft. Neurotransmitter released by pre-synaptic axons diffuse through the synaptic clef to bind to and open ion channels in post-synaptic axons.
+Dynamics
+Action potentials are most commonly initiated by excitatory postsynaptic potentials from a presynaptic neuron. Typically, neurotransmitter molecules are released by the presynaptic neuron. These neurotransmitters then bind to receptors on the postsynaptic cell. This binding opens various types of ion channels. This opening has the further effect of changing the local permeability of the cell membrane and, thus, the membrane potential. If the binding increases the voltage (depolarizes the membrane), the synapse is excitatory. If, however, the binding decreases the voltage (hyperpolarizes the membrane), it is inhibitory. Whether the voltage is increased or decreased, the change propagates passively to nearby regions of the membrane (as described by the cable equation and its refinements). Typically, the voltage stimulus decays exponentially with the distance from the synapse and with time from the binding of the neurotransmitter. Some fraction of an excitatory voltage may reach the axon hillock and may (in rare cases) depolarize the membrane enough to provoke a new action potential. More typically, the excitatory potentials from several synapses must work together at nearly the same time to provoke a new action potential. Their joint efforts can be thwarted, however, by the counteracting inhibitory postsynaptic potentials.
+Neurotransmission can also occur through electrical synapses. Due to the direct connection between excitable cells in the form of gap junctions, an action potential can be transmitted directly from one cell to the next in either direction. The free flow of ions between cells enables rapid non-chemical-mediated transmission. Rectifying channels ensure that action potentials move only in one direction through an electrical synapse. Electrical synapses are found in all nervous systems, including the human brain, although they are a distinct minority.
+"All-or-none" principle
+The amplitude of an action potential is often thought to be independent of the amount of current that produced it. In other words, larger currents do not create larger action potentials. Therefore, action potentials are said to be all-or-none signals, since either they occur fully or they do not occur at all.Sasaki, T., Matsuki, N., Ikegaya, Y. 2011 Action-potential modulation during axonal conduction Science 331 (6017), pp. 599–601Aur D., Jog, MS., 2010 Neuroelectrodynamics: Understanding the brain language, IOS Press, 2010.  This is in contrast to receptor potentials, whose amplitudes are dependent on the intensity of a stimulus. In both cases, the frequency of action potentials is correlated with the intensity of a stimulus.
+Despite the classical view of the action potential as a stereotyped, uniform signal having dominated the field of neuroscience for many decades, newer evidence does suggest that action potentials are more complex events indeed capable of transmitting information through not just their amplitude, but their duration and phase as well, sometimes even up to distances originally not thought to be possible.
+Sensory neurons
+In sensory neurons, an external signal such as pressure, temperature, light, or sound is coupled with the opening and closing of ion channels, which in turn alter the ionic permeabilities of the membrane and its voltage. These voltage changes can again be excitatory (depolarizing) or inhibitory (hyperpolarizing) and, in some sensory neurons, their combined effects can depolarize the axon hillock enough to provoke action potentials. Some examples in humans include the olfactory receptor neuron and Meissner's corpuscle, which are critical for the sense of smell and touch, respectively. However, not all sensory neurons convert their external signals into action potentials; some do not even have an axon. Instead, they may convert the signal into the release of a neurotransmitter, or into continuous graded potentials, either of which may stimulate subsequent neuron(s) into firing an action potential. For illustration, in the human ear, hair cells convert the incoming sound into the opening and closing of mechanically gated ion channels, which may cause neurotransmitter molecules to be released. In similar manner, in the human retina, the initial photoreceptor cells and the next layer of cells (comprising bipolar cells and horizontal cells) do not produce action potentials; only some amacrine cells and the third layer, the ganglion cells, produce action potentials, which then travel up the optic nerve.
+Pacemaker potentials
+thumb|right|In pacemaker potentials, the cell spontaneously depolarizes (straight line with upward slope) until it fires an action potential.|alt=A plot of action potential (mV) vs time. The membrane potential is initially −60 mV, rise relatively slowly to the threshold potential of −40 mV, and then quickly spikes at a potential of +10 mV, after which it rapidly returns to the starting −60 mV potential. The cycle is then repeated.
+In sensory neurons, action potentials result from an external stimulus. However, some excitable cells require no such stimulus to fire: They spontaneously depolarize their axon hillock and fire action potentials at a regular rate, like an internal clock. The voltage traces of such cells are known as pacemaker potentials. The cardiac pacemaker cells of the sinoatrial node in the heart provide a good example. Although such pacemaker potentials have a natural rhythm, it can be adjusted by external stimuli; for instance, heart rate can be altered by pharmaceuticals as well as signals from the sympathetic and parasympathetic nerves. The external stimuli do not cause the cell's repetitive firing, but merely alter its timing. In some cases, the regulation of frequency can be more complex, leading to patterns of action potentials, such as bursting.
+Phases
+The course of the action potential can be divided into five parts: the rising phase, the peak phase, the falling phase, the undershoot phase, and the refractory period. During the rising phase the membrane potential depolarizes (becomes more positive). The point at which depolarization stops is called the peak phase. At this stage, the membrane potential reaches a maximum. Subsequent to this, there is a falling phase. During this stage the membrane potential becomes more negative, returning towards resting potential. The undershoot, or afterhyperpolarization, phase is the period during which the membrane potential temporarily becomes more negatively charged than when at rest (hyperpolarized). Finally, the time during which a subsequent action potential is impossible or difficult to fire is called the refractory period, which may overlap with the other phases.
+The course of the action potential is determined by two coupled effects. First, voltage-sensitive ion channels open and close in response to changes in the membrane voltage Vm. This changes the membrane's permeability to those ions. Second, according to the Goldman equation, this change in permeability changes the equilibrium potential Em, and, thus, the membrane voltage Vm. Thus, the membrane potential affects the permeability, which then further affects the membrane potential. This sets up the possibility for positive feedback, which is a key part of the rising phase of the action potential. A complicating factor is that a single ion channel may have multiple internal "gates" that respond to changes in Vm in opposite ways, or at different rates. For example, although raising Vm opens most gates in the voltage-sensitive sodium channel, it also closes the channel's "inactivation gate", albeit more slowly. Hence, when Vm is raised suddenly, the sodium channels open initially, but then close due to the slower inactivation.
+The voltages and currents of the action potential in all of its phases were modeled accurately by Alan Lloyd Hodgkin and Andrew Huxley in 1952, for which they were awarded the Nobel Prize in Physiology or Medicine in 1963. However, their model considers only two types of voltage-sensitive ion channels, and makes several assumptions about them, e.g., that their internal gates open and close independently of one another. In reality, there are many types of ion channels,Goldin, AL in  and they do not always open and close independently.
+Stimulation and rising phase
+A typical action potential begins at the axon hillock with a sufficiently strong depolarization, e.g., a stimulus that increases Vm. This depolarization is often caused by the injection of extra sodium cations into the cell; these cations can come from a wide variety of sources, such as chemical synapses, sensory neurons or pacemaker potentials.
+For a neuron at rest, there is a high concentration of sodium and chloride ions in the extracellular fluid compared to the intracellular fluid, while there is a high concentration of potassium ions in the intracellular fluid compared to the extracellular fluid. The difference in concentrations, which causes ions to move from a high to a low concentration, and electrostatic effects (attraction of opposite charges) are responsible for the movement of ions in and out of the neuron. The inside of a neuron has a negative charge, relative to the cell exterior, from the movement of K+ out of the cell. The neuron membrane is more permeable to K+ than to other ions, allowing this ion to selectively move out of the cell, down its concentration gradient. This concentration gradient along with potassium leak channels present on the membrane of the neuron causes an efflux of potassium ions making the resting potential close to EK ≈ −75 mV. Since Na+ ions are in higher concentrations outside of the cell, the concentration and voltage differences both drive them into the cell when Na+ channels open. Depolarization opens both the sodium and potassium channels in the membrane, allowing the ions to flow into and out of the axon, respectively. If the depolarization is small (say, increasing Vm from −70 mV to −60 mV), the outward potassium current overwhelms the inward sodium current and the membrane repolarizes back to its normal resting potential around −70 mV. However, if the depolarization is large enough, the inward sodium current increases more than the outward potassium current and a runaway condition (positive feedback) results: the more inward current there is, the more Vm increases, which in turn further increases the inward current. A sufficiently strong depolarization (increase in Vm) causes the voltage-sensitive sodium channels to open; the increasing permeability to sodium drives Vm closer to the sodium equilibrium voltage ENa≈ +55 mV. The increasing voltage in turn causes even more sodium channels to open, which pushes Vm still further towards ENa. This positive feedback continues until the sodium channels are fully open and Vm is close to ENa. The sharp rise in Vm and sodium permeability correspond to the rising phase of the action potential.
+The critical threshold voltage for this runaway condition is usually around −45 mV, but it depends on the recent activity of the axon. A cell that has just fired an action potential cannot fire another one immediately, since the Na+ channels have not recovered from the inactivated state. The period during which no new action potential can be fired is called the absolute refractory period. At longer times, after some but not all of the ion channels have recovered, the axon can be stimulated to produce another action potential, but with a higher threshold, requiring a much stronger depolarization, e.g., to −30 mV. The period during which action potentials are unusually difficult to evoke is called the relative refractory period.
+Peak phase
+The positive feedback of the rising phase slows and comes to a halt as the sodium ion channels become maximally open. At the peak of the action potential, the sodium permeability is maximized and the membrane voltage Vm is nearly equal to the sodium equilibrium voltage ENa. However, the same raised voltage that opened the sodium channels initially also slowly shuts them off, by closing their pores; the sodium channels become inactivated. This lowers the membrane's permeability to sodium relative to potassium, driving the membrane voltage back towards the resting value. At the same time, the raised voltage opens voltage-sensitive potassium channels; the increase in the membrane's potassium permeability drives Vm towards EK. Combined, these changes in sodium and potassium permeability cause Vm to drop quickly, repolarizing the membrane and producing the "falling phase" of the action potential.
+Afterhyperpolarization
+The depolarized voltage opens additional voltage-dependent potassium channels, and some of these do not close right away when the membrane returns to its normal resting voltage. In addition, further potassium channels open in response to the influx of calcium ions during the action potential. The intracellular concentration of potassium ions is transiently unusually low, making the membrane voltage Vm even closer to the potassium equilibrium voltage EK. The membrane potential goes below the resting membrane potential. Hence, there is an undershoot or hyperpolarization, termed an afterhyperpolarization, that persists until the membrane potassium permeability returns to its usual value, restoring the membrane potential to the resting state.
+Refractory period
+Each action potential is followed by a refractory period, which can be divided into an absolute refractory period, during which it is impossible to evoke another action potential, and then a relative refractory period, during which a stronger-than-usual stimulus is required. These two refractory periods are caused by changes in the state of sodium and potassium channel molecules. When closing after an action potential, sodium channels enter an "inactivated" state, in which they cannot be made to open regardless of the membrane potential—this gives rise to the absolute refractory period. Even after a sufficient number of sodium channels have transitioned back to their resting state, it frequently happens that a fraction of potassium channels remains open, making it difficult for the membrane potential to depolarize, and thereby giving rise to the relative refractory period. Because the density and subtypes of potassium channels may differ greatly between different types of neurons, the duration of the relative refractory period is highly variable.
+The absolute refractory period is largely responsible for the unidirectional propagation of action potentials along axons. At any given moment, the patch of axon behind the actively spiking part is refractory, but the patch in front, not having been activated recently, is capable of being stimulated by the depolarization from the action potential.
+Propagation
+The action potential generated at the axon hillock propagates as a wave along the axon. The currents flowing inwards at a point on the axon during an action potential spread out along the axon, and depolarize the adjacent sections of its membrane. If sufficiently strong, this depolarization provokes a similar action potential at the neighboring membrane patches. This basic mechanism was demonstrated by Alan Lloyd Hodgkin in 1937. After crushing or cooling nerve segments and thus blocking the action potentials, he showed that an action potential arriving on one side of the block could provoke another action potential on the other, provided that the blocked segment was sufficiently short.*
+Once an action potential has occurred at a patch of membrane, the membrane patch needs time to recover before it can fire again. At the molecular level, this absolute refractory period corresponds to the time required for the voltage-activated sodium channels to recover from inactivation, i.e., to return to their closed state. There are many types of voltage-activated potassium channels in neurons. Some of them inactivate fast (A-type currents) and some of them inactivate slowly or not inactivate at all; this variability guarantees that there will be always an available source of current for repolarization, even if some of the potassium channels are inactivated because of preceding depolarization. On the other hand, all neuronal voltage-activated sodium channels inactivate within several milliseconds during strong depolarization, thus making following depolarization impossible until a substantial fraction of sodium channels have returned to their closed state. Although it limits the frequency of firing, the absolute refractory period ensures that the action potential moves in only one direction along an axon. The currents flowing in due to an action potential spread out in both directions along the axon. However, only the unfired part of the axon can respond with an action potential; the part that has just fired is unresponsive until the action potential is safely out of range and cannot restimulate that part. In the usual orthodromic conduction, the action potential propagates from the axon hillock towards the synaptic knobs (the axonal termini); propagation in the opposite direction—known as antidromic conduction—is very rare. However, if a laboratory axon is stimulated in its middle, both halves of the axon are "fresh", i.e., unfired; then two action potentials will be generated, one traveling towards the axon hillock and the other traveling towards the synaptic knobs.
+Myelin and saltatory conduction
+thumb|In saltatory conduction, an action potential at one node of Ranvier causes inwards currents that depolarize the membrane at the next node, provoking a new action potential there; the action potential appears to "hop" from node to node.|alt=Axons of neurons are wrapped by several myelin sheaths, which shield the axon from extracellular fluid. There are short gaps between the myelin sheaths known as nodes of Ranvier where the axon is directly exposed to the surrounding extracellular fluid.
+To enable fast and efficient transduction of electrical signals in the nervous system, certain neuronal axons are covered with myelin sheaths. Myelin is a multilamellar membrane that enwraps the axon in segments separated by intervals known as nodes of Ranvier. It is produced by specialized cells: Schwann cells exclusively in the peripheral nervous system, and oligodendrocytes exclusively in the central nervous system. Myelin sheath reduces membrane capacitance and increases membrane resistance in the inter-node intervals, thus allowing a fast, saltatory movement of action potentials from node to node. Myelination is found mainly in vertebrates, but an analogous system has been discovered in a few invertebrates, such as some species of shrimp. Not all neurons in vertebrates are myelinated; for example, axons of the neurons comprising the autonomous nervous system are not, in general, myelinated.
+Myelin prevents ions from entering or leaving the axon along myelinated segments. As a general rule, myelination increases the conduction velocity of action potentials and makes them more energy-efficient. Whether saltatory or not, the mean conduction velocity of an action potential ranges from 1 meter per second (m/s) to over 100 m/s, and, in general, increases with axonal diameter.
+Action potentials cannot propagate through the membrane in myelinated segments of the axon. However, the current is carried by the cytoplasm, which is sufficient to depolarize the first or second subsequent node of Ranvier. Instead, the ionic current from an action potential at one node of Ranvier provokes another action potential at the next node; this apparent "hopping" of the action potential from node to node is known as saltatory conduction. Although the mechanism of saltatory conduction was suggested in 1925 by Ralph Lillie, See also  the first experimental evidence for saltatory conduction came from Ichiji Tasaki and Taiji Takeuchi* Tasaki, I in  and from Andrew Huxley and Robert Stämpfli.*  By contrast, in unmyelinated axons, the action potential provokes another in the membrane immediately adjacent, and moves continuously down the axon like a wave.
+thumb|right|300px|Comparison of the conduction velocities of myelinated and unmyelinated axons in the cat. The conduction velocity v of myelinated neurons varies roughly linearly with axon diameter d (that is, v ∝ d), whereas the speed of unmyelinated neurons varies roughly as the square root (v ∝). The red and blue curves are fits of experimental data, whereas the dotted lines are their theoretical extrapolations.|alt=A log-log plot of conduction velocity (m/s) vs axon diameter (μm).
+Myelin has two important advantages: fast conduction speed and energy efficiency. For axons larger than a minimum diameter (roughly 1 micrometre), myelination increases the conduction velocity of an action potential, typically tenfold. Conversely, for a given conduction velocity, myelinated fibers are smaller than their unmyelinated counterparts. For example, action potentials move at roughly the same speed (25 m/s) in a myelinated frog axon and an unmyelinated squid giant axon, but the frog axon has a roughly 30-fold smaller diameter and 1000-fold smaller cross-sectional area. Also, since the ionic currents are confined to the nodes of Ranvier, far fewer ions "leak" across the membrane, saving metabolic energy. This saving is a significant selective advantage, since the human nervous system uses approximately 20% of the body's metabolic energy.
+The length of axons' myelinated segments is important to the success of saltatory conduction. They should be as long as possible to maximize the speed of conduction, but not so long that the arriving signal is too weak to provoke an action potential at the next node of Ranvier. In nature, myelinated segments are generally long enough for the passively propagated signal to travel for at least two nodes while retaining enough amplitude to fire an action potential at the second or third node. Thus, the safety factor of saltatory conduction is high, allowing transmission to bypass nodes in case of injury. However, action potentials may end prematurely in certain places where the safety factor is low, even in unmyelinated neurons; a common example is the branch point of an axon, where it divides into two axons.
+Some diseases degrade myelin and impair saltatory conduction, reducing the conduction velocity of action potentials. The most well-known of these is multiple sclerosis, in which the breakdown of myelin impairs coordinated movement.Waxman, SG in
+Cable theory
+alt=A diagram showing the resistance and capacitance across the cell membrane of an axon. The cell membrane is divided into adjacent regions, each having its own resistance and capacitance between the cytosol and extracellular fluid across the membrane. Each of these regions is in turn connected by an intracellular circuit with a resistance.|thumb|300x300px|Cable theory's simplified view of a neuronal fiber. The connected RC circuits correspond to adjacent segments of a passive neurite. The extracellular resistances re (the counterparts of the intracellular resistances ri) are not shown, since they are usually negligibly small; the extracellular medium may be assumed to have the same voltage everywhere.
+The flow of currents within an axon can be described quantitatively by cable theoryRall, W in  and its elaborations, such as the compartmental model. Cable theory was developed in 1855 by Lord Kelvin to model the transatlantic telegraph cable and was shown to be relevant to neurons by Hodgkin and Rushton in 1946. In simple cable theory, the neuron is treated as an electrically passive, perfectly cylindrical transmission cable, which can be described by a partial differential equation
+where V(x, t) is the voltage across the membrane at a time t and a position x along the length of the neuron, and where λ and τ are the characteristic length and time scales on which those voltages decay in response to a stimulus. Referring to the circuit diagram on the right, these scales can be determined from the resistances and capacitances per unit length.
+These time and length-scales can be used to understand the dependence of the conduction velocity on the diameter of the neuron in unmyelinated fibers. For example, the time-scale τ increases with both the membrane resistance rm and capacitance cm. As the capacitance increases, more charge must be transferred to produce a given transmembrane voltage (by the equation Q = CV); as the resistance increases, less charge is transferred per unit time, making the equilibration slower. In a similar manner, if the internal resistance per unit length ri is lower in one axon than in another (e.g., because the radius of the former is larger), the spatial decay length λ becomes longer and the conduction velocity of an action potential should increase. If the transmembrane resistance rm is increased, that lowers the average "leakage" current across the membrane, likewise causing λ to become longer, increasing the conduction velocity.
+Termination
+Chemical synapses
+In general, action potentials that reach the synaptic knobs cause a neurotransmitter to be released into the synaptic cleft. Neurotransmitters are small molecules that may open ion channels in the postsynaptic cell; most axons have the same neurotransmitter at all of their termini. The arrival of the action potential opens voltage-sensitive calcium channels in the presynaptic membrane; the influx of calcium causes vesicles filled with neurotransmitter to migrate to the cell's surface and release their contents into the synaptic cleft. This complex process is inhibited by the neurotoxins tetanospasmin and botulinum toxin, which are responsible for tetanus and botulism, respectively.
+thumb|right|Electrical synapses between excitable cells allow ions to pass directly from one cell to another, and are much faster than chemical synapses.|alt=Electrical synapases are composed of protein complexes that are imbedded in both membranes of adjacent neurons and thereby provide a direct channel for ions to flow from the cytoplasm of one cell into an adjacent cell.
+Electrical synapses
+Some synapses dispense with the "middleman" of the neurotransmitter, and connect the presynaptic and postsynaptic cells together. When an action potential reaches such a synapse, the ionic currents flowing into the presynaptic cell can cross the barrier of the two cell membranes and enter the postsynaptic cell through pores known as connexons. Thus, the ionic currents of the presynaptic action potential can directly stimulate the postsynaptic cell. Electrical synapses allow for faster transmission because they do not require the slow diffusion of neurotransmitters across the synaptic cleft. Hence, electrical synapses are used whenever fast response and coordination of timing are crucial, as in escape reflexes, the retina of vertebrates, and the heart.
+Neuromuscular junctions
+A special case of a chemical synapse is the neuromuscular junction, in which the axon of a motor neuron terminates on a muscle fiber. In such cases, the released neurotransmitter is acetylcholine, which binds to the acetylcholine receptor, an integral membrane protein in the membrane (the sarcolemma) of the muscle fiber. However, the acetylcholine does not remain bound; rather, it dissociates and is hydrolyzed by the enzyme, acetylcholinesterase, located in the synapse. This enzyme quickly reduces the stimulus to the muscle, which allows the degree and timing of muscular contraction to be regulated delicately. Some poisons inactivate acetylcholinesterase to prevent this control, such as the nerve agents sarin and tabun, and the insecticides diazinon and malathion.
+Other cell types
+Cardiac action potentials
+thumb|right|220px|Phases of a cardiac action potential. The sharp rise in voltage ("0") corresponds to the influx of sodium ions, whereas the two decays ("1" and "3", respectively) correspond to the sodium-channel inactivation and the repolarizing eflux of potassium ions. The characteristic plateau ("2") results from the opening of voltage-sensitive calcium channels.|alt=Plot of membrane potential versus time. The initial resting phase (region 4) is negative and constant flowed by sharp rise (0) to a peak (1). The plateau phase (2) is slightly below the peak. The plateau phase is followed by a fairly rapid return (3) back to the resting potential (4).
+The cardiac action potential differs from the neuronal action potential by having an extended plateau, in which the membrane is held at a high voltage for a few hundred milliseconds prior to being repolarized by the potassium current as usual. This plateau is due to the action of slower calcium channels opening and holding the membrane voltage near their equilibrium potential even after the sodium channels have inactivated.
+The cardiac action potential plays an important role in coordinating the contraction of the heart. The cardiac cells of the sinoatrial node provide the pacemaker potential that synchronizes the heart. The action potentials of those cells propagate to and through the atrioventricular node (AV node), which is normally the only conduction pathway between the atria and the ventricles. Action potentials from the AV node travel through the bundle of His and thence to the Purkinje fibers.These Purkinje fibers are muscle fibers and not related to the Purkinje cells, which are neurons found in the cerebellum. Conversely, anomalies in the cardiac action potential—whether due to a congenital mutation or injury—can lead to human pathologies, especially arrhythmias. Several anti-arrhythmia drugs act on the cardiac action potential, such as quinidine, lidocaine, beta blockers, and verapamil.
+Muscular action potentials
+The action potential in a normal skeletal muscle cell is similar to the action potential in neurons. Action potentials result from the depolarization of the cell membrane (the sarcolemma), which opens voltage-sensitive sodium channels; these become inactivated and the membrane is repolarized through the outward current of potassium ions. The resting potential prior to the action potential is typically −90mV, somewhat more negative than typical neurons. The muscle action potential lasts roughly 2–4 ms, the absolute refractory period is roughly 1–3 ms, and the conduction velocity along the muscle is roughly 5 m/s. The action potential releases calcium ions that free up the tropomyosin and allow the muscle to contract. Muscle action potentials are provoked by the arrival of a pre-synaptic neuronal action potential at the neuromuscular junction, which is a common target for neurotoxins.
+Plant action potentials
+Plant and fungal cells are also electrically excitable. The fundamental difference from animal action potentials is that the depolarization in plant cells is not accomplished by an uptake of positive sodium ions, but by release of negative chloride ions. In 1906, J. C. Bose published the first measurements of action potentials in plants, which had previously been discovered by Burdon-Sanderson and Darwin. An increase in cytoplasmic calcium ions may be the cause of anion release into the cell. This makes calcium a precursor to ion movements, such as the influx of negative chloride ions and efflux of positive potassium ions, as seen in barley leaves.
+The initial influx of calcium ions also poses a small cellular depolarization, causing the voltage-gated ion channels to open and allowing full depolarization to be propagated by chloride ions.
+Some plants (e.g. Dionaea muscipula) use sodium-gated channels to operate plant movements and "count" stimulation events to determine if a threshold for movement is met. Dionaea muscipula, also known as the Venus flytrap, is found in subtropical wetlands in North and South Carolina. When there are poor soil nutrients, the flytrap relies on a diet of insects and animals. Despite research on the plant, there lacks an understanding behind the molecular basis to the Venus flytraps, and carnivore plants in general.
+However, plenty of research has been done on action potentials and how they affect movement and clockwork within the Venus flytrap. To start, the resting membrane potential of the Venus flytrap (−120 mV) is lower than animal cells (usually −90 mV to −40 mV).Purves D, Augustine GJ, Fitzpatrick D, et al., editors. Neuroscience. 2nd edition. Sunderland (MA): Sinauer Associates; 2001. Electrical Potentials Across Nerve Cell Membranes. Available from:  The lower resting potential makes it easier to activate an action potential. Thus, when an insect lands on the trap of the plant, it triggers a hair-like mechanoreceptor. This receptor then activates an action potential that lasts around 1.5 ms. This causes an increase of positive calcium ions into the cell, slightly depolarizing it. However, the flytrap does not close after one trigger. Instead, it requires the activation of two or more hairs. If only one hair is triggered, it disregards the activation as a false positive. Further, the second hair must be activated within a certain time interval (0.75–40 s) for it to register with the first activation. Thus, a buildup of calcium begins and then slowly falls after the first trigger. When the second action potential is fired within the time interval, it reaches the calcium threshold to depolarize the cell, closing the trap on the prey within a fraction of a second.
+Together with the subsequent release of positive potassium ions the action potential in plants involves an osmotic loss of salt (KCl). Whereas, the animal action potential is osmotically neutral because equal amounts of entering sodium and leaving potassium cancel each other osmotically. The interaction of electrical and osmotic relations in plant cells appears to have arisen from an osmotic function of electrical excitability in a common unicellular ancestors of plants and animals under changing salinity conditions. Further, the present function of rapid signal transmission is seen as a newer accomplishment of metazoan cells in a more stable osmotic environment.Gradmann, D; Mummert, H in  It is likely that the familiar signaling function of action potentials in some vascular plants (e.g. Mimosa pudica) arose independently from that in metazoan excitable cells.
+Unlike the rising phase and peak, the falling phase and after-hyperpolarization seem to depend primarily on cations that are not calcium. To initiate repolarization, the cell requires movement of potassium out of the cell through passive transportation on the membrane. This differs from neurons because the movement of potassium does not dominate the decrease in membrane potential. To fully repolarize, a plant cell requires energy in the form of ATP to assist in the release of hydrogen from the cell – utilizing a transporter called proton ATPase.Opritov, V A, et al. "Direct Coupling of Action Potential Generation in Cells of a Higher Plant (Cucurbita Pepo) with the Operation of an Electrogenic Pump." Russian Journal of Plant Physiology, vol. 49, no. 1, 2002, pp. 142–147.
+Taxonomic distribution and evolutionary advantages
+Action potentials are found throughout multicellular organisms, including plants, invertebrates such as insects, and vertebrates such as reptiles and mammals. Sponges seem to be the main phylum of multicellular eukaryotes that does not transmit action potentials, although some studies have suggested that these organisms have a form of electrical signaling, too. The resting potential, as well as the size and duration of the action potential, have not varied much with evolution, although the conduction velocity does vary dramatically with axonal diameter and myelination.
++ Comparison of action potentials (APs) from a representative cross-section of animals Animal  Cell type  Resting potential (mV)  AP increase (mV)  AP duration (ms)  Conduction speed (m/s) Squid (Loligo)  Giant axon  −60  120  0.75  35 Earthworm (Lumbricus)  Median giant fiber  −70  100  1.0  30 Cockroach (Periplaneta)  Giant fiber  −70  80–104  0.4  10 Frog (Rana)  Sciatic nerve axon  −60 to −80  110–130  1.0  7–30 Cat (Felis)  Spinal motor neuron  −55 to −80  80–110  1–1.5  30–120
+Given its conservation throughout evolution, the action potential seems to confer evolutionary advantages. One function of action potentials is rapid, long-range signaling within the organism; the conduction velocity can exceed 110 m/s, which is one-third the speed of sound. For comparison, a hormone molecule carried in the bloodstream moves at roughly 8 m/s in large arteries. Part of this function is the tight coordination of mechanical events, such as the contraction of the heart. A second function is the computation associated with its generation. Being an all-or-none signal that does not decay with transmission distance, the action potential has similar advantages to digital electronics. The integration of various dendritic signals at the axon hillock and its thresholding to form a complex train of action potentials is another form of computation, one that has been exploited biologically to form central pattern generators and mimicked in artificial neural networks.
+The common prokaryotic/eukaryotic ancestor, which lived perhaps four billion years ago, is believed to have had voltage-gated channels. This functionality was likely, at some later point, cross-purposed to provide a communication mechanism. Even modern single-celled bacteria can utilize action potentials to communicate with other bacteria in the same biofilm.
+Experimental methods
+thumb|right|250px|Giant axons of the longfin inshore squid (Doryteuthis pealeii) were crucial for scientists to understand the action potential.|alt=Illustration of the longfin inshore squid.
+The study of action potentials has required the development of new experimental methods. The initial work, prior to 1955, was carried out primarily by Alan Lloyd Hodgkin and Andrew Fielding Huxley, who were, along John Carew Eccles, awarded the 1963 Nobel Prize in Physiology or Medicine for their contribution to the description of the ionic basis of nerve conduction. It focused on three goals: isolating signals from single neurons or axons, developing fast, sensitive electronics, and shrinking electrodes enough that the voltage inside a single cell could be recorded.
+The first problem was solved by studying the giant axons found in the neurons of the squid (Loligo forbesii and Doryteuthis pealeii, at the time classified as Loligo pealeii). These axons are so large in diameter (roughly 1 mm, or 100-fold larger than a typical neuron) that they can be seen with the naked eye, making them easy to extract and manipulate. However, they are not representative of all excitable cells, and numerous other systems with action potentials have been studied.
+The second problem was addressed with the crucial development of the voltage clamp, which permitted experimenters to study the ionic currents underlying an action potential in isolation, and eliminated a key source of electronic noise, the current IC associated with the capacitance C of the membrane. Since the current equals C times the rate of change of the transmembrane voltage Vm, the solution was to design a circuit that kept Vm fixed (zero rate of change) regardless of the currents flowing across the membrane. Thus, the current required to keep Vm at a fixed value is a direct reflection of the current flowing through the membrane. Other electronic advances included the use of Faraday cages and electronics with high input impedance, so that the measurement itself did not affect the voltage being measured.
+The third problem, that of obtaining electrodes small enough to record voltages within a single axon without perturbing it, was solved in 1949 with the invention of the glass micropipette electrode, which was quickly adopted by other researchers. Refinements of this method are able to produce electrode tips that are as fine as 100 Å (10 nm), which also confers high input impedance.Snell, FM in  Action potentials may also be recorded with small metal electrodes placed just next to a neuron, with neurochips containing EOSFETs, or optically with dyes that are sensitive to Ca2+ or to voltage.*
+thumb|left|As revealed by a patch clamp electrode, an ion channel has two states: open (high conductance) and closed (low conductance).|alt=Plot of membrane potential versus time. The channel is primarily in a high conductance state punctuated by random and relatively brief transitions to a low conductance states
+While glass micropipette electrodes measure the sum of the currents passing through many ion channels, studying the electrical properties of a single ion channel became possible in the 1970s with the development of the patch clamp by Erwin Neher and Bert Sakmann. For this discovery, they were awarded the Nobel Prize in Physiology or Medicine in 1991. Patch-clamping verified that ionic channels have discrete states of conductance, such as open, closed and inactivated.
+Optical imaging technologies have been developed in recent years to measure action potentials, either via simultaneous multisite recordings or with ultra-spatial resolution. Using voltage-sensitive dyes, action potentials have been optically recorded from a tiny patch of cardiomyocyte membrane.
+Neurotoxins
+thumb|right|Tetrodotoxin is a lethal toxin found in pufferfish that inhibits the voltage-sensitive sodium channel, halting action potentials.|alt=Photograph of a pufferfish.
+Several neurotoxins, both natural and synthetic, function by blocking the action potential. Tetrodotoxin from the pufferfish and saxitoxin from the Gonyaulax (the dinoflagellate genus responsible for "red tides") block action potentials by inhibiting the voltage-sensitive sodium channel;* *  similarly, dendrotoxin from the black mamba snake inhibits the voltage-sensitive potassium channel. Such inhibitors of ion channels serve an important research purpose, by allowing scientists to "turn off" specific channels at will, thus isolating the other channels' contributions; they can also be useful in purifying ion channels by affinity chromatography or in assaying their concentration. However, such inhibitors also make effective neurotoxins, and have been considered for use as chemical weapons. Neurotoxins aimed at the ion channels of insects have been effective insecticides; one example is the synthetic permethrin, which prolongs the activation of the sodium channels involved in action potentials. The ion channels of insects are sufficiently different from their human counterparts that there are few side effects in humans.
+History
+thumb|left|Image of two Purkinje cells (labeled as A) drawn by Santiago Ramón y Cajal in 1899. Large trees of dendrites feed into the soma, from which a single axon emerges and moves generally downwards with a few branch points. The smaller cells labeled B are granule cells.|alt=Hand drawn figure of two Purkinje cells side by side with dendrites projecting upwards that look like tree branches and a few axons projected downwards that connect to a few granule cells at the bottom of the drawing.
+The role of electricity in the nervous systems of animals was first observed in dissected frogs by Luigi Galvani, who studied it from 1791 to 1797. Galvani's results inspired Alessandro Volta to develop the Voltaic pile—the earliest-known electric battery—with which he studied animal electricity (such as electric eels) and the physiological responses to applied direct-current voltages.
+In the 19th century scientists studied the propagation of electrical signals in whole nerves (i.e., bundles of neurons) and demonstrated that nervous tissue was made up of cells, instead of an interconnected network of tubes (a reticulum). Carlo Matteucci followed up Galvani's studies and demonstrated that injured nerves and muscles in frogs could produce direct current. Matteucci's work inspired the German physiologist, Emil du Bois-Reymond, who discovered in 1843 that stimulating these muscle and nerve preparations produced a notable diminution in their resting currents, making him the first researcher to identify the electrical nature of the action potential. The conduction velocity of action potentials was then measured in 1850 by du Bois-Reymond's friend, Hermann von Helmholtz.Olesko, Kathryn M., and Frederic L. Holmes. "Experiment, Quantification and Discovery: Helmholtz's Early Physiological Researches, 1843-50". In Hermann von Helmholtz and the Foundations of Nineteenth Century Science, ed. David Cahan, 50-108. Berkeley; Los Angeles; London: University of California, 1994. Progress in electrophysiology stagnated thereafter due to the limitations of chemical theory and experimental practice. To establish that nervous tissue is made up of discrete cells, the Spanish physician Santiago Ramón y Cajal and his students used a stain developed by Camillo Golgi to reveal the myriad shapes of neurons, which they rendered painstakingly. For their discoveries, Golgi and Ramón y Cajal were awarded the 1906 Nobel Prize in Physiology. Their work resolved a long-standing controversy in the neuroanatomy of the 19th century; Golgi himself had argued for the network model of the nervous system.
+thumb|right|Ribbon diagram of the sodium–potassium pump in its E2-Pi state. The estimated boundaries of the lipid bilayer are shown as blue (intracellular) and red (extracellular) planes.|alt=Cartoon diagram of the sodium–potassium pump drawn vertically imbedded in a schematic diagram of a lipid bilayer represented by two parallel horizontal lines. The portion of the protein that is imbedded in the lipid bilayer is composed largely of anti-parallel beta sheets. There is also a large intracellular domain of the protein with a mixed alpha-helix/beta-sheet structure.
+The 20th century saw significant breakthroughs in electrophysiology. In 1902 and again in 1912, Julius Bernstein advanced the hypothesis that the action potential resulted from a change in the permeability of the axonal membrane to ions. Bernstein's hypothesis was confirmed by Ken Cole and Howard Curtis, who showed that membrane conductance increases during an action potential. In 1907, Louis Lapicque suggested that the action potential was generated as a threshold was crossed, what would be later shown as a product of the dynamical systems of ionic conductances. In 1949, Alan Hodgkin and Bernard Katz refined Bernstein's hypothesis by considering that the axonal membrane might have different permeabilities to different ions; in particular, they demonstrated the crucial role of the sodium permeability for the action potential. They made the first actual recording of the electrical changes across the neuronal membrane that mediate the action potential. This line of research culminated in the five 1952 papers of Hodgkin, Katz and Andrew Huxley, in which they applied the voltage clamp technique to determine the dependence of the axonal membrane's permeabilities to sodium and potassium ions on voltage and time, from which they were able to reconstruct the action potential quantitatively.* * * *  Hodgkin and Huxley correlated the properties of their mathematical model with discrete ion channels that could exist in several different states, including "open", "closed", and "inactivated". Their hypotheses were confirmed in the mid-1970s and 1980s by Erwin Neher and Bert Sakmann, who developed the technique of patch clamping to examine the conductance states of individual ion channels.* *  In the 21st century, researchers are beginning to understand the structural basis for these conductance states and for the selectivity of channels for their species of ion, through the atomic-resolution crystal structures,* *  fluorescence distance measurements* *  and cryo-electron microscopy studies.*
+Julius Bernstein was also the first to introduce the Nernst equation for resting potential across the membrane; this was generalized by David E. Goldman to the eponymous Goldman equation in 1943. The sodium–potassium pump was identified in 1957 and its properties gradually elucidated, culminating in the determination of its atomic-resolution structure by X-ray crystallography. The crystal structures of related ionic pumps have also been solved, giving a broader view of how these molecular machines work.
+Quantitative models
+thumb|336px|right|Equivalent electrical circuit for the Hodgkin–Huxley model of the action potential. Im and Vm represent the current through, and the voltage across, a small patch of membrane, respectively. The Cm represents the capacitance of the membrane patch, whereas the four g represent the conductances of four types of ions. The two conductances on the left, for potassium (K) and sodium (Na), are shown with arrows to indicate that they can vary with the applied voltage, corresponding to the voltage-sensitive ion channels. The two conductances on the right help determine the resting membrane potential.|alt=Circuit diagram depicting five parallel circuits that are interconnected at the top to the extracellular solution and at the bottom to the intracellular solution.
+Mathematical and computational models are essential for understanding the action potential, and offer predictions that may be tested against experimental data, providing a stringent test of a theory. The most important and accurate of the early neural models is the Hodgkin–Huxley model, which describes the action potential by a coupled set of four ordinary differential equations (ODEs). Although the Hodgkin–Huxley model may be a simplification with few limitations compared to the realistic nervous membrane as it exists in nature, its complexity has inspired several even-more-simplified models,* *  such as the Morris–Lecar model and the FitzHugh–Nagumo model,*  both of which have only two coupled ODEs. The properties of the Hodgkin–Huxley and FitzHugh–Nagumo models and their relatives, such as the Bonhoeffer–Van der Pol model,* * * *  have been well-studied within mathematics,Sato, S; Fukai, H; Nomura, T; Doi, S in * FitzHugh, R in * *  computationNelson, ME; Rinzel, J in * Rinzel, J & Ermentrout, GB; in  and electronics. However the simple models of generator potential and action potential fail to accurately reproduce the near threshold neural spike rate and spike shape, specifically for the mechanoreceptors like the Pacinian corpuscle. More modern research has focused on larger and more integrated systems; by joining action-potential models with models of other parts of the nervous system (such as dendrites and synapses), researchers can study neural computation and simple reflexes, such as escape reflexes and others controlled by central pattern generators.Getting, PA in
+See also
+Anode break excitation
+Bioelectricity
+Biological neuron model
+Bursting
+Central pattern generator
+Chronaxie
+Frog battery
+Law of specific nerve energies
+Neural accommodation
+Single-unit recording
